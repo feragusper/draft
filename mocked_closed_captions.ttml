@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en"
+ xmlns="http://www.w3.org/ns/ttml"
+ xmlns:tts="http://www.w3.org/ns/ttml#styling"
+ xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+ xmlns:smpte="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt"
+ xmlns:m608="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt#cea608"
+ xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+ ttp:timeBase="media" ttp:frameRate="30" ttp:frameRateMultiplier="1000 1001">
+ <head>
+  <metadata>
+   <ttm:desc>CaptionMaker V6.6.0.4893 SMPTE-TT Captions (4x3)</ttm:desc>
+   <smpte:information
+    xmlns:m608="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt#cea608"
+    origin="http://www.smpte-ra.org/schemas/2052-1/2010/smpte-tt#cea608"
+    mode="Preserved" m608:channel="CC1" m608:programName="Demo" m608:captionService="F1C1CC"
+   />
+  </metadata>
+  <styling>
+   <style xml:id='basic' tts:color='white' tts:backgroundColor='black' tts:fontFamily='monospace' tts:fontSize='80%'/>
+  </styling>
+  <layout>
+   <region xml:id='pop1' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='pop2' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='pop3' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='pop4' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='paint' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='paint2' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='paint3' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='paint4' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='rollup2' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='rollup3' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+   <region xml:id='rollup4' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
+  </layout>
+ </head>
+ <body>
+  <div>
+   <p region='pop1' style='basic' begin='00:00:00:19' end='00:00:03:01' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:00:03:03' end='00:00:08:27' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>IN THE HEART OF AFRICA,</p>
+   <p region='pop2' style='basic' begin='00:00:03:03' end='00:00:08:27' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>A NEW ERA IS DAWNING.</p>
+   <p region='pop1' style='basic' begin='00:00:08:29' end='00:00:14:00' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>RWANDA IS ABOUT TO WELCOME HOME</p>
+   <p region='pop2' style='basic' begin='00:00:08:29' end='00:00:14:00' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>LONG-LOST ROYALTY.</p>
+   <p region='pop1' style='basic' begin='00:00:15:19' end='00:00:18:28' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THIS IDYLLIC LANDSCAPE</p>
+   <p region='pop2' style='basic' begin='00:00:15:19' end='00:00:18:28' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>WAS ONCE THE HUNTING GROUND</p>
+   <p region='pop1' style='basic' begin='00:00:19:00' end='00:00:22:16' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>FOR MIGHTY PRIDES OF LIONS...</p>
+   <p region='pop1' style='basic' begin='00:00:22:18' end='00:00:26:08' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>UNTIL A BRUTAL CIVIL WAR</p>
+   <p region='pop2' style='basic' begin='00:00:22:18' end='00:00:26:08' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>RIPPED THROUGH THE COUNTRY,</p>
+   <p region='pop1' style='basic' begin='00:00:26:10' end='00:00:29:23' tts:origin='32.5% 79.33%' tts:extent='32.5% 5.33%'>KILLING CLOSE</p>
+   <p region='pop2' style='basic' begin='00:00:26:10' end='00:00:29:23' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>TO TWO MILLION PEOPLE</p>
+   <p region='pop1' style='basic' begin='00:00:29:25' end='00:00:33:03' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>AND WIPING OUT</p>
+   <p region='pop2' style='basic' begin='00:00:29:25' end='00:00:33:03' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>ITS MOST ICONIC WILDLIFE.</p>
+   <p region='pop1' style='basic' begin='00:00:35:16' end='00:00:38:17' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>EVEN THE REGAL LIONS VANISHED.</p>
+   <p region='pop1' style='basic' begin='00:00:38:19' end='00:00:41:19' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:00:41:21' end='00:00:46:00' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>THE WILDERNESS TURNED</p>
+   <p region='pop2' style='basic' begin='00:00:41:21' end='00:00:46:00' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>INTO FARMLAND...</p>
+   <p region='pop1' style='basic' begin='00:00:46:02' end='00:00:49:24' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>AND THE PLAINS FELL SILENT...</p>
+   <p region='pop1' style='basic' begin='00:00:49:26' end='00:00:51:10' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>UNTIL NOW!</p>
+   <p region='pop1' style='basic' begin='00:00:51:12' end='00:00:52:12' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:00:52:14' end='00:00:55:18' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:00:55:20' end='00:00:58:06' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[BELLOWING]</p>
+   <p region='pop1' style='basic' begin='00:00:58:08' end='00:01:00:15' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:01:00:17' end='00:01:02:00' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[SNARLING]</p>
+   <p region='pop1' style='basic' begin='00:01:02:02' end='00:01:09:08' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:01:09:10' end='00:01:18:03' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[ROARING]</p>
+   <p region='pop1' style='basic' begin='00:01:18:05' end='00:01:21:19' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:01:21:21' end='00:01:26:01' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>AKAGERA, RWANDA'S LARGEST</p>
+   <p region='pop2' style='basic' begin='00:01:21:21' end='00:01:26:01' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>NATIONAL PARK.</p>
+   <p region='pop1' style='basic' begin='00:01:28:11' end='00:01:32:05' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>IT'S A TAPESTRY OF HABITATS--</p>
+   <p region='pop1' style='basic' begin='00:01:32:07' end='00:01:36:13' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>ROLLING MOUNTAINS RISE</p>
+   <p region='pop2' style='basic' begin='00:01:32:07' end='00:01:36:13' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>FROM SAVANNAHS</p>
+   <p region='pop1' style='basic' begin='00:01:36:15' end='00:01:39:05' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>AND SPARKLING LAKES</p>
+   <p region='pop2' style='basic' begin='00:01:36:15' end='00:01:39:05' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>SUPPORT YEAR-ROUND LIFE</p>
+   <p region='pop1' style='basic' begin='00:01:39:07' end='00:01:41:25' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>ON THE OPEN PLAINS.</p>
+   <p region='pop1' style='basic' begin='00:01:41:27' end='00:01:44:08' tts:origin='35% 79.33%' tts:extent='30% 5.33%'>FOR THE LAST</p>
+   <p region='pop2' style='basic' begin='00:01:41:27' end='00:01:44:08' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>TWO AND A HALF DECADES,</p>
+   <p region='pop1' style='basic' begin='00:01:44:10' end='00:01:46:20' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>THE HERDS OF ANTELOPE HERE</p>
+   <p region='pop2' style='basic' begin='00:01:44:10' end='00:01:46:20' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>HAVE THRIVED</p>
+   <p region='pop1' style='basic' begin='00:01:46:22' end='00:01:50:14' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>IN A WORLD FREE</p>
+   <p region='pop2' style='basic' begin='00:01:46:22' end='00:01:50:14' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>OF BIG PREDATORS.</p>
+   <p region='pop1' style='basic' begin='00:01:50:16' end='00:01:53:04' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>WITHOUT THE PRESSURE</p>
+   <p region='pop2' style='basic' begin='00:01:50:16' end='00:01:53:04' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>OF LION PRIDES,</p>
+   <p region='pop1' style='basic' begin='00:01:53:06' end='00:01:57:24' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>THEY'VE ROAMED THE PLAINS</p>
+   <p region='pop2' style='basic' begin='00:01:53:06' end='00:01:57:24' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>AND MARSHES UNHINDERED.</p>
+   <p region='pop1' style='basic' begin='00:01:57:26' end='00:02:02:28' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>THIS IS EDEN FOR ANY HERBIVORE,</p>
+   <p region='pop1' style='basic' begin='00:02:03:00' end='00:02:07:10' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>BUT THEIR PEACEFUL EXISTENCE</p>
+   <p region='pop2' style='basic' begin='00:02:03:00' end='00:02:07:10' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>IS ABOUT TO BE SHATTERED.</p>
+   <p region='pop1' style='basic' begin='00:02:10:08' end='00:02:15:24' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>[VEHICLE APPROACHING]</p>
+   <p region='pop1' style='basic' begin='00:02:15:26' end='00:02:16:27' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>[HORN HONKS]</p>
+   <p region='pop1' style='basic' begin='00:02:16:29' end='00:02:20:23' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>SEVEN LIONS HAVE JUST ARRIVED</p>
+   <p region='pop2' style='basic' begin='00:02:16:29' end='00:02:20:23' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>IN RWANDA!</p>
+   <p region='pop1' style='basic' begin='00:02:20:25' end='00:02:23:13' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>[CATTLE LOWING]</p>
+   <p region='pop1' style='basic' begin='00:02:23:15' end='00:02:25:25' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>THEY'VE BEEN HANDPICKED</p>
+   <p region='pop2' style='basic' begin='00:02:23:15' end='00:02:25:25' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>IN SOUTH AFRICA,</p>
+   <p region='pop1' style='basic' begin='00:02:25:27' end='00:02:27:24' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>AND THEY'RE TRAVELING</p>
+   <p region='pop2' style='basic' begin='00:02:25:27' end='00:02:27:24' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>THOUSANDS OF MILES</p>
+   <p region='pop1' style='basic' begin='00:02:27:26' end='00:02:30:04' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>NORTH OF THEIR HOMELAND.</p>
+   <p region='pop1' style='basic' begin='00:02:32:08' end='00:02:35:23' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>THEIR DESTINATION: AKAGERA.</p>
+   <p region='pop1' style='basic' begin='00:02:38:04' end='00:02:41:09' tts:origin='30% 79.33%' tts:extent='40% 5.33%'>THE HOPE IS THAT</p>
+   <p region='pop2' style='basic' begin='00:02:38:04' end='00:02:41:09' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>THEY WILL FORM A PRIDE...</p>
+   <p region='pop1' style='basic' begin='00:02:41:11' end='00:02:44:24' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>AND RE-ESTABLISH THE LION</p>
+   <p region='pop2' style='basic' begin='00:02:41:11' end='00:02:44:24' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>POPULATION IN THIS LAND.</p>
+   <p region='pop1' style='basic' begin='00:02:44:26' end='00:02:46:23' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>[CLATTERING]</p>
+   <p region='pop1' style='basic' begin='00:02:50:22' end='00:02:52:22' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>IT'S BEEN A LONG HAUL,</p>
+   <p region='pop1' style='basic' begin='00:02:52:24' end='00:02:54:10' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>BUT FOR THE KING OF BEASTS,</p>
+   <p region='pop1' style='basic' begin='00:02:54:12' end='00:02:57:18' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>THIS JOURNEY IS ONLY</p>
+   <p region='pop2' style='basic' begin='00:02:54:12' end='00:02:57:18' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>JUST BEGINNING.</p>
+   <p region='pop1' style='basic' begin='00:03:05:26' end='00:03:11:24' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>SUCCESS IN THIS NEW KINGDOM</p>
+   <p region='pop2' style='basic' begin='00:03:05:26' end='00:03:11:24' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>IS NOT GUARANTEED.</p>
+   <p region='pop1' style='basic' begin='00:03:11:26' end='00:03:14:01' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>THIS IS THE STARTING GATE...</p>
+   <p region='pop1' style='basic' begin='00:03:14:03' end='00:03:16:12' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>OF A RACE FOR SURVIVAL.</p>
+   <p region='pop1' style='basic' begin='00:03:17:07' end='00:03:18:22' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>[TRUCK STARTS]</p>
+   <p region='pop1' style='basic' begin='00:03:23:23' end='00:03:27:22' tts:origin='10% 79.33%' tts:extent='80% 5.33%'>THE BEST WAY TO LURE A WILD LION</p>
+   <p region='pop2' style='basic' begin='00:03:23:23' end='00:03:27:22' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>INTO A STRANGE HABITAT</p>
+   <p region='pop1' style='basic' begin='00:03:27:24' end='00:03:30:01' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>IS THROUGH ITS STOMACH.</p>
+   <p region='pop1' style='basic' begin='00:03:31:07' end='00:03:32:17' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[GROWLS]</p>
+   <p region='pop1' style='basic' begin='00:03:34:17' end='00:03:37:08' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>SHEMA IS HESITANT...</p>
+   <p region='pop1' style='basic' begin='00:03:37:10' end='00:03:38:25' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>BUT HUNGRY!</p>
+   <p region='pop1' style='basic' begin='00:03:38:27' end='00:03:43:20' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:03:51:25' end='00:03:56:15' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>AT 11 YEARS, SHE'S</p>
+   <p region='pop2' style='basic' begin='00:03:51:25' end='00:03:56:15' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>THE OLDEST LIONESS HERE.</p>
+   <p region='pop1' style='basic' begin='00:03:56:17' end='00:04:01:03' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>SHE WAS PICKED</p>
+   <p region='pop2' style='basic' begin='00:03:56:17' end='00:04:01:03' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>FOR HER EXPERIENCE.</p>
+   <p region='pop1' style='basic' begin='00:04:01:05' end='00:04:05:28' tts:origin='10% 79.33%' tts:extent='80% 5.33%'>BACK HOME, SHE WAS THE MATRIARCH</p>
+   <p region='pop2' style='basic' begin='00:04:01:05' end='00:04:05:28' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>OF A STRONG, HEALTHY FAMILY.</p>
+   <p region='pop1' style='basic' begin='00:04:06:00' end='00:04:09:20' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>BUT THESE OTHER LIONESSES</p>
+   <p region='pop2' style='basic' begin='00:04:06:00' end='00:04:09:20' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>AREN'T HER SIBLINGS.</p>
+   <p region='pop1' style='basic' begin='00:04:09:22' end='00:04:12:28' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>THEY'RE STRANGERS</p>
+   <p region='pop2' style='basic' begin='00:04:09:22' end='00:04:12:28' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>BROUGHT TOGETHER BY FATE.</p>
+   <p region='pop1' style='basic' begin='00:04:13:00' end='00:04:18:06' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>THE HOPE IS THAT SHEMA CAN</p>
+   <p region='pop2' style='basic' begin='00:04:13:00' end='00:04:18:06' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>PULL THEM TOGETHER AS A PRIDE.</p>
+   <p region='pop1' style='basic' begin='00:04:18:08' end='00:04:22:01' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>LIONS ARE THE ONLY CATS</p>
+   <p region='pop2' style='basic' begin='00:04:18:08' end='00:04:22:01' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>THAT LIVE IN FAMILY GROUPS.</p>
+   <p region='pop1' style='basic' begin='00:04:22:03' end='00:04:27:13' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>THEIR SUCCESS DEPENDS HEAVILY</p>
+   <p region='pop2' style='basic' begin='00:04:22:03' end='00:04:27:13' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>ON THEIR SOCIAL STRUCTURE.</p>
+   <p region='pop1' style='basic' begin='00:04:27:15' end='00:04:31:07' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>A STABLE PRIDE OF LIONS</p>
+   <p region='pop2' style='basic' begin='00:04:27:15' end='00:04:31:07' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>IS MADE UP OF RELATED FEMALES</p>
+   <p region='pop1' style='basic' begin='00:04:31:09' end='00:04:36:25' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>WHO HUNT AS A TEAM</p>
+   <p region='pop2' style='basic' begin='00:04:31:09' end='00:04:36:25' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>AND RAISE THEIR YOUNG TOGETHER.</p>
+   <p region='pop1' style='basic' begin='00:04:36:27' end='00:04:39:11' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>BEFORE THEY CAN QUALIFY</p>
+   <p region='pop2' style='basic' begin='00:04:36:27' end='00:04:39:11' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>AS A PRIDE,</p>
+   <p region='pop1' style='basic' begin='00:04:39:13' end='00:04:42:01' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THEY WILL NEED TO BOND</p>
+   <p region='pop2' style='basic' begin='00:04:39:13' end='00:04:42:01' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>AS A SISTERHOOD...</p>
+   <p region='pop1' style='basic' begin='00:04:42:03' end='00:04:45:27' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>AND ESTABLISH A HIERARCHY.</p>
+   <p region='pop1' style='basic' begin='00:04:45:29' end='00:04:50:03' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>RIGHT NOW, IT'S JUST HUNGER</p>
+   <p region='pop2' style='basic' begin='00:04:45:29' end='00:04:50:03' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>THAT UNITES THEM.</p>
+   <p region='pop1' style='basic' begin='00:04:56:25' end='00:05:00:28' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>NEARBY THE TWO MALES</p>
+   <p region='pop2' style='basic' begin='00:04:56:25' end='00:05:00:28' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>AWAIT THEIR RELEASE.</p>
+   <p region='pop1' style='basic' begin='00:05:01:01' end='00:05:02:22' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:05:02:24' end='00:05:05:13' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>INDORO IS A 3-YEAR-OLD MALE...</p>
+   <p region='pop1' style='basic' begin='00:05:05:15' end='00:05:09:20' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>A YOUNG BRAWLER WHOSE RIGHT EYE</p>
+   <p region='pop2' style='basic' begin='00:05:05:15' end='00:05:09:20' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>HAS BEEN BLINDED IN A FIGHT.</p>
+   <p region='pop1' style='basic' begin='00:05:09:22' end='00:05:12:21' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:05:12:23' end='00:05:15:27' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>HIS BROTHER, IZUKA,</p>
+   <p region='pop2' style='basic' begin='00:05:12:23' end='00:05:15:27' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>LACKS HIS EDGE...</p>
+   <p region='pop1' style='basic' begin='00:05:15:29' end='00:05:20:09' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>BUT HE'S INDORO'S ONLY ALLY.</p>
+   <p region='pop1' style='basic' begin='00:05:20:11' end='00:05:23:03' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>TO RE-ESTABLISH A LION COLONY</p>
+   <p region='pop2' style='basic' begin='00:05:20:11' end='00:05:23:03' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>IN RWANDA,</p>
+   <p region='pop1' style='basic' begin='00:05:23:05' end='00:05:25:26' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>THE MALES WILL NEED TO BOND</p>
+   <p region='pop2' style='basic' begin='00:05:23:05' end='00:05:25:26' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>WITH THE FEMALES,</p>
+   <p region='pop1' style='basic' begin='00:05:25:28' end='00:05:29:04' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>HUNT COOPERATIVELY AND BREED.</p>
+   <p region='pop1' style='basic' begin='00:05:32:04' end='00:05:35:17' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>FOR THESE TWO YOUNG ROOKIES,</p>
+   <p region='pop2' style='basic' begin='00:05:32:04' end='00:05:35:17' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>THAT'S A TALL ORDER.</p>
+   <p region='pop1' style='basic' begin='00:05:35:19' end='00:05:40:08' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:05:40:10' end='00:05:41:14' tts:origin='40% 84.66%' tts:extent='17.5% 5.33%'>[GROAN]</p>
+   <p region='pop1' style='basic' begin='00:05:41:16' end='00:05:43:15' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>BINTI IS THE LAST TO EXIT.</p>
+   <p region='pop1' style='basic' begin='00:05:43:17' end='00:05:48:01' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:05:48:03' end='00:05:50:25' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>STILL WEARING THE DARK SPOTS</p>
+   <p region='pop2' style='basic' begin='00:05:48:03' end='00:05:50:25' tts:origin='32.5% 84.66%' tts:extent='32.5% 5.33%'>OF CHILDHOOD,</p>
+   <p region='pop1' style='basic' begin='00:05:50:27' end='00:05:53:04' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>SHE IS THE YOUNGEST</p>
+   <p region='pop2' style='basic' begin='00:05:50:27' end='00:05:53:04' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>OF THE LIONESSES</p>
+   <p region='pop1' style='basic' begin='00:05:53:06' end='00:05:56:16' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>AND THE MOST NERVOUS.</p>
+   <p region='pop1' style='basic' begin='00:05:56:18' end='00:06:01:10' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>AT ONLY 18 MONTHS OLD,</p>
+   <p region='pop2' style='basic' begin='00:05:56:18' end='00:06:01:10' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>SHE'S THE LOWEST RANKING MEMBER.</p>
+   <p region='pop1' style='basic' begin='00:06:01:12' end='00:06:03:19' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[SNARLING]</p>
+   <p region='pop1' style='basic' begin='00:06:03:21' end='00:06:05:17' tts:origin='35% 79.33%' tts:extent='27.5% 5.33%'>TO SURVIVE,</p>
+   <p region='pop2' style='basic' begin='00:06:03:21' end='00:06:05:17' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>SHE'LL NEED THE SUPPORT</p>
+   <p region='pop1' style='basic' begin='00:06:05:19' end='00:06:07:13' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>OF THE OLDER FEMALES,</p>
+   <p region='pop1' style='basic' begin='00:06:07:15' end='00:06:10:28' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>BOTH AS HUNTERS</p>
+   <p region='pop2' style='basic' begin='00:06:07:15' end='00:06:10:28' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>AND AS TEACHERS.</p>
+   <p region='pop1' style='basic' begin='00:06:12:00' end='00:06:14:06' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>IN A PRIDE BOUND BY BLOOD,</p>
+   <p region='pop1' style='basic' begin='00:06:14:08' end='00:06:17:02' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>THESE LIONESSES WOULD EACH</p>
+   <p region='pop2' style='basic' begin='00:06:14:08' end='00:06:17:02' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>KNOW THEIR ROLE</p>
+   <p region='pop1' style='basic' begin='00:06:17:04' end='00:06:18:28' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>AND THEIR PLACE.</p>
+   <p region='pop1' style='basic' begin='00:06:19:00' end='00:06:26:24' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[SNARLING]</p>
+   <p region='pop1' style='basic' begin='00:06:26:26' end='00:06:28:12' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>BUT THIS RAGTAG BUNCH</p>
+   <p region='pop1' style='basic' begin='00:06:28:14' end='00:06:31:26' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>ARE GOING TO HAVE TO</p>
+   <p region='pop2' style='basic' begin='00:06:28:14' end='00:06:31:26' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>WORK THAT OUT FROM SCRATCH.</p>
+   <p region='pop1' style='basic' begin='00:06:32:26' end='00:06:35:18' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:06:35:20' end='00:06:39:16' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>LIONS ARE NOCTURNAL,</p>
+   <p region='pop2' style='basic' begin='00:06:35:20' end='00:06:39:16' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>AND AS THE SUN SETS,</p>
+   <p region='pop1' style='basic' begin='00:06:39:18' end='00:06:43:20' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>THEY FEEL CONFIDENT ENOUGH</p>
+   <p region='pop2' style='basic' begin='00:06:39:18' end='00:06:43:20' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>TO VENTURE INTO THE UNKNOWN.</p>
+   <p region='pop1' style='basic' begin='00:06:43:22' end='00:06:46:13' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>[ANIMALS HOWLING]</p>
+   <p region='pop1' style='basic' begin='00:06:46:15' end='00:06:49:21' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>SHEMA WAS THE FIRST</p>
+   <p region='pop2' style='basic' begin='00:06:46:15' end='00:06:49:21' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>OUT OF THE GATE,</p>
+   <p region='pop1' style='basic' begin='00:06:49:23' end='00:06:53:05' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>AND NOW SHE'S FIRST TO LEAVE</p>
+   <p region='pop2' style='basic' begin='00:06:49:23' end='00:06:53:05' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>THE RELEASE SITE.</p>
+   <p region='pop1' style='basic' begin='00:06:56:24' end='00:06:59:06' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>THE LOOSE-KNIT SISTERHOOD</p>
+   <p region='pop2' style='basic' begin='00:06:56:24' end='00:06:59:06' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>FOLLOWS.</p>
+   <p region='pop1' style='basic' begin='00:07:02:16' end='00:07:04:12' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>IT'S A GOOD START.</p>
+   <p region='pop1' style='basic' begin='00:07:04:14' end='00:07:09:08' tts:origin='10% 79.33%' tts:extent='80% 5.33%'>SHEMA'S MATURITY MIGHT JUST HOLD</p>
+   <p region='pop2' style='basic' begin='00:07:04:14' end='00:07:09:08' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>THIS BAND OF STRANGERS TOGETHER.</p>
+   <p region='pop1' style='basic' begin='00:07:13:03' end='00:07:15:16' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>THE BROTHERS ARE ALSO</p>
+   <p region='pop2' style='basic' begin='00:07:13:03' end='00:07:15:16' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>ON THE MOVE,</p>
+   <p region='pop1' style='basic' begin='00:07:15:18' end='00:07:17:27' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>BUT THEY'RE DISORIENTED.</p>
+   <p region='pop1' style='basic' begin='00:07:17:29' end='00:07:21:23' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THEY'RE HEADING NORTH,</p>
+   <p region='pop2' style='basic' begin='00:07:17:29' end='00:07:21:23' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>AWAY FROM THE FEMALES.</p>
+   <p region='pop1' style='basic' begin='00:07:21:25' end='00:07:24:11' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>IT'S THE WRONG MOVE.</p>
+   <p region='pop1' style='basic' begin='00:07:28:00' end='00:07:29:24' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>[ANIMAL BARKING]</p>
+   <p region='pop1' style='basic' begin='00:07:29:26' end='00:07:33:13' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>THEY WERE EARMARKED</p>
+   <p region='pop2' style='basic' begin='00:07:29:26' end='00:07:33:13' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>AS THE FUTURE KINGS OF AKAGERA,</p>
+   <p region='pop1' style='basic' begin='00:07:33:15' end='00:07:36:15' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>BUT THEY'VE GOT A LOT TO LEARN.</p>
+   <p region='pop1' style='basic' begin='00:07:36:17' end='00:07:40:28' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>NOTORIOUSLY LAZY, MALE LIONS</p>
+   <p region='pop2' style='basic' begin='00:07:36:17' end='00:07:40:28' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>RELY ON THE PRIDE LIONESSES</p>
+   <p region='pop1' style='basic' begin='00:07:41:00' end='00:07:42:14' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>TO NAVIGATE...</p>
+   <p region='pop1' style='basic' begin='00:07:42:16' end='00:07:45:07' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>AND BRING HOME THE BACON.</p>
+   <p region='pop1' style='basic' begin='00:07:47:09' end='00:07:50:02' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>TOTALLY LACKING</p>
+   <p region='pop2' style='basic' begin='00:07:47:09' end='00:07:50:02' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>SURVIVAL SKILLS,</p>
+   <p region='pop1' style='basic' begin='00:07:50:04' end='00:07:53:17' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THESE TWO AREN'T READY</p>
+   <p region='pop2' style='basic' begin='00:07:50:04' end='00:07:53:17' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>TO MAKE IT OUT HERE ALONE.</p>
+   <p region='pop1' style='basic' begin='00:07:54:28' end='00:08:01:01' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>[HYENA WHOOPING]</p>
+   <p region='pop1' style='basic' begin='00:08:01:03' end='00:08:03:28' tts:origin='32.5% 79.33%' tts:extent='32.5% 5.33%'>SHEMA FOLLOWS</p>
+   <p region='pop2' style='basic' begin='00:08:01:03' end='00:08:03:28' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>HER INSTINCTS SOUTH.</p>
+   <p region='pop1' style='basic' begin='00:08:04:00' end='00:08:06:06' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>SHE'S HEADING TOWARDS</p>
+   <p region='pop2' style='basic' begin='00:08:04:00' end='00:08:06:06' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>HER FORMER HOMELAND</p>
+   <p region='pop1' style='basic' begin='00:08:06:08' end='00:08:08:11' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>AT THE TIP OF AFRICA.</p>
+   <p region='pop1' style='basic' begin='00:08:08:13' end='00:08:10:03' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>[CHATTERING]</p>
+   <p region='pop1' style='basic' begin='00:08:10:05' end='00:08:15:11' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>SHE'S ABOUT TO HAVE HER</p>
+   <p region='pop2' style='basic' begin='00:08:10:05' end='00:08:15:11' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>FIRST BRUSH WITH THE LOCALS.</p>
+   <p region='pop1' style='basic' begin='00:08:15:13' end='00:08:19:02' tts:origin='30% 79.33%' tts:extent='40% 5.33%'>A GANG OF HYENAS</p>
+   <p region='pop2' style='basic' begin='00:08:15:13' end='00:08:19:02' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>RULES THIS TURF.</p>
+   <p region='pop1' style='basic' begin='00:08:19:04' end='00:08:21:26' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[YIPPING]</p>
+   <p region='pop1' style='basic' begin='00:08:21:28' end='00:08:24:07' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>LIKE MOST OF THE LOCAL WILDLIFE,</p>
+   <p region='pop1' style='basic' begin='00:08:24:09' end='00:08:28:03' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>THESE YOUNG MOBSTERS HAVE NEVER</p>
+   <p region='pop2' style='basic' begin='00:08:24:09' end='00:08:28:03' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>SEEN A LION BEFORE.</p>
+   <p region='pop1' style='basic' begin='00:08:32:21' end='00:08:35:24' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>THEIR AMAZEMENT IS CLEAR--</p>
+   <p region='pop1' style='basic' begin='00:08:35:26' end='00:08:39:21' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>THEY HAVE NO IDEA</p>
+   <p region='pop2' style='basic' begin='00:08:35:26' end='00:08:39:21' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>THAT SHEMA IS A RIVAL.</p>
+   <p region='pop1' style='basic' begin='00:08:40:12' end='00:08:42:12' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[YIPPING]</p>
+   <p region='pop1' style='basic' begin='00:08:42:14' end='00:08:43:16' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[GROWLS]</p>
+   <p region='pop1' style='basic' begin='00:08:43:18' end='00:08:47:04' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>BUT SHEMA HAS A LIFETIME</p>
+   <p region='pop2' style='basic' begin='00:08:43:18' end='00:08:47:04' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>OF HYENA CONTEMPT.</p>
+   <p region='pop1' style='basic' begin='00:08:47:06' end='00:08:51:23' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[YIPPING]</p>
+   <p region='pop1' style='basic' begin='00:08:51:25' end='00:08:56:04' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>THE AGE-OLD RIVALRY</p>
+   <p region='pop2' style='basic' begin='00:08:51:25' end='00:08:56:04' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>RUNS DEEP IN HER VEINS.</p>
+   <p region='pop1' style='basic' begin='00:08:57:18' end='00:09:01:08' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>SHE PAWS THE GROUND, DEPOSITING</p>
+   <p region='pop2' style='basic' begin='00:08:57:18' end='00:09:01:08' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>A TERRITORIAL SCENT MARK</p>
+   <p region='pop1' style='basic' begin='00:09:01:10' end='00:09:05:07' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>FROM GLANDS BETWEEN HER TOES.</p>
+   <p region='pop1' style='basic' begin='00:09:05:09' end='00:09:06:25' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>AS A LONE LIONESS,</p>
+   <p region='pop1' style='basic' begin='00:09:06:27' end='00:09:11:18' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>THE GANG OF HYENAS</p>
+   <p region='pop2' style='basic' begin='00:09:06:27' end='00:09:11:18' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>COULD EASILY TAKE HER ON.</p>
+   <p region='pop1' style='basic' begin='00:09:11:20' end='00:09:16:10' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>FOR NOW, THEIR IGNORANCE</p>
+   <p region='pop2' style='basic' begin='00:09:11:20' end='00:09:16:10' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>IS HER ONLY ALLY.</p>
+   <p region='pop1' style='basic' begin='00:09:16:12' end='00:09:19:17' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>[YIPPING AND SHRIEKING]</p>
+   <p region='pop1' style='basic' begin='00:09:21:17' end='00:09:23:09' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>FIVE MILES NORTH,</p>
+   <p region='pop1' style='basic' begin='00:09:23:11' end='00:09:27:25' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THE BROTHERS ARE STILL</p>
+   <p region='pop2' style='basic' begin='00:09:23:11' end='00:09:27:25' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>ON THEIR MISGUIDED JOURNEY.</p>
+   <p region='pop1' style='basic' begin='00:09:27:27' end='00:09:30:23' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>YOUNG MALES USUALLY</p>
+   <p region='pop2' style='basic' begin='00:09:27:27' end='00:09:30:23' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>HAVE TO FIGHT FOR TERRITORY</p>
+   <p region='pop1' style='basic' begin='00:09:30:25' end='00:09:32:19' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>WHEN THEY COME OF AGE...</p>
+   <p region='pop1' style='basic' begin='00:09:32:21' end='00:09:36:06' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>BUT THESE LUCKY UPSTARTS</p>
+   <p region='pop2' style='basic' begin='00:09:32:21' end='00:09:36:06' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>HAVE BEEN OFFERED A NEW EMPIRE</p>
+   <p region='pop1' style='basic' begin='00:09:36:08' end='00:09:38:27' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>AT NO COST.</p>
+   <p region='pop1' style='basic' begin='00:09:38:29' end='00:09:42:07' tts:origin='30% 79.33%' tts:extent='40% 5.33%'>AND THIS KINGDOM</p>
+   <p region='pop2' style='basic' begin='00:09:38:29' end='00:09:42:07' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>LOOKS PROMISING.</p>
+   <p region='pop1' style='basic' begin='00:09:46:21' end='00:09:49:03' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>25 YEARS WITHOUT LIONS</p>
+   <p region='pop1' style='basic' begin='00:09:49:05' end='00:09:52:16' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>HAVE ALLOWED LARGE HERDS</p>
+   <p region='pop2' style='basic' begin='00:09:49:05' end='00:09:52:16' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>OF IMPALA TO THRIVE,</p>
+   <p region='pop1' style='basic' begin='00:09:52:18' end='00:09:56:04' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>UNCHECKED AND UNSUSPECTING.</p>
+   <p region='pop1' style='basic' begin='00:09:56:06' end='00:09:58:25' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[GRUMBLING]</p>
+   <p region='pop1' style='basic' begin='00:09:58:27' end='00:10:00:21' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>LIKE DEER IN THE HEADLIGHTS,</p>
+   <p region='pop1' style='basic' begin='00:10:00:23' end='00:10:03:05' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>THE USUALLY SKITTISH PREY</p>
+   <p region='pop2' style='basic' begin='00:10:00:23' end='00:10:03:05' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>ARE CLUELESS</p>
+   <p region='pop1' style='basic' begin='00:10:03:07' end='00:10:07:00' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>ABOUT &quot;PREDATOR PROTOCOL.&quot;</p>
+   <p region='pop1' style='basic' begin='00:10:07:02' end='00:10:11:16' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>LUCKY FOR THEM, THE LIONS</p>
+   <p region='pop2' style='basic' begin='00:10:07:02' end='00:10:11:16' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>SEEM EQUALLY CONFUSED.</p>
+   <p region='pop1' style='basic' begin='00:10:11:18' end='00:10:16:14' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:10:16:16' end='00:10:19:10' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>THE BROTHERS HAVE THE WORLD</p>
+   <p region='pop2' style='basic' begin='00:10:16:16' end='00:10:19:10' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>AT THEIR FEET...</p>
+   <p region='pop1' style='basic' begin='00:10:19:12' end='00:10:22:00' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>BUT THEY NEED TO GET A GRIP!</p>
+   <p region='pop1' style='basic' begin='00:10:22:02' end='00:10:24:20' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:10:29:12' end='00:10:34:07' tts:origin='35% 79.33%' tts:extent='30% 5.33%'>IT'S DAY TWO</p>
+   <p region='pop2' style='basic' begin='00:10:29:12' end='00:10:34:07' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>IN AKAGERA, RWANDA.</p>
+   <p region='pop1' style='basic' begin='00:10:34:09' end='00:10:37:08' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>WITH SHEMA AT THE HELM,</p>
+   <p region='pop2' style='basic' begin='00:10:34:09' end='00:10:37:08' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>THE FIVE LIONESSES</p>
+   <p region='pop1' style='basic' begin='00:10:37:10' end='00:10:42:03' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>HAVE REACHED THE HIGH PEAKS</p>
+   <p region='pop2' style='basic' begin='00:10:37:10' end='00:10:42:03' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>IN THE SOUTH OF THE PARK.</p>
+   <p region='pop1' style='basic' begin='00:10:42:05' end='00:10:44:08' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>IT'S THE END OF THE DRY SEASON</p>
+   <p region='pop1' style='basic' begin='00:10:44:10' end='00:10:46:27' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>AND A RECENT WILDFIRE</p>
+   <p region='pop2' style='basic' begin='00:10:44:10' end='00:10:46:27' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>HAS SWEPT THROUGH,</p>
+   <p region='pop1' style='basic' begin='00:10:46:29' end='00:10:50:25' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>SCORCHING THE LANDSCAPE</p>
+   <p region='pop2' style='basic' begin='00:10:46:29' end='00:10:50:25' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>AND EXPOSING ROCKY GROUND.</p>
+   <p region='pop1' style='basic' begin='00:10:50:27' end='00:10:55:00' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[URINATING]</p>
+   <p region='pop1' style='basic' begin='00:10:55:02' end='00:10:59:09' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>THIS IS STRANGE NEW TERRAIN</p>
+   <p region='pop2' style='basic' begin='00:10:55:02' end='00:10:59:09' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>FOR THE LIONESSES.</p>
+   <p region='pop1' style='basic' begin='00:10:59:11' end='00:11:03:03' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>THE PLAINS OF THEIR HOMELAND</p>
+   <p region='pop2' style='basic' begin='00:10:59:11' end='00:11:03:03' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>WERE FLAT, GRASSY SAVANNAHS...</p>
+   <p region='pop1' style='basic' begin='00:11:03:05' end='00:11:05:29' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>WITH NO HIGH VANTAGE POINTS.</p>
+   <p region='pop1' style='basic' begin='00:11:06:01' end='00:11:07:25' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[GROANS]</p>
+   <p region='pop1' style='basic' begin='00:11:11:07' end='00:11:13:03' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>FOR THE FIRST TIME</p>
+   <p region='pop2' style='basic' begin='00:11:11:07' end='00:11:13:03' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>IN THEIR LIVES</p>
+   <p region='pop1' style='basic' begin='00:11:13:05' end='00:11:16:00' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>THEY CAN LOOK OUT</p>
+   <p region='pop2' style='basic' begin='00:11:13:05' end='00:11:16:00' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>INTO THE DISTANCE...</p>
+   <p region='pop1' style='basic' begin='00:11:18:11' end='00:11:25:25' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>DOWN VALLEYS, PAST LAKES</p>
+   <p region='pop2' style='basic' begin='00:11:18:11' end='00:11:25:25' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>AND ACROSS A VAST WILDERNESS.</p>
+   <p region='pop1' style='basic' begin='00:11:25:27' end='00:11:28:10' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>[ZEBRA BRAYING]</p>
+   <p region='pop1' style='basic' begin='00:11:28:12' end='00:11:30:25' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>IT MAY BE ALIEN TERRITORY,</p>
+   <p region='pop1' style='basic' begin='00:11:30:27' end='00:11:33:09' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>BUT THE TRUE BOUNTY</p>
+   <p region='pop2' style='basic' begin='00:11:30:27' end='00:11:33:09' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>OF THEIR NEW KINGDOM</p>
+   <p region='pop1' style='basic' begin='00:11:33:11' end='00:11:35:29' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>IS SUDDENLY CLEAR.</p>
+   <p region='pop1' style='basic' begin='00:11:36:01' end='00:11:42:21' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:11:42:23' end='00:11:45:12' tts:origin='35% 79.33%' tts:extent='27.5% 5.33%'>SHEMA LEADS</p>
+   <p region='pop2' style='basic' begin='00:11:42:23' end='00:11:45:12' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>THE LIONESSES ONWARD,</p>
+   <p region='pop1' style='basic' begin='00:11:45:14' end='00:11:48:08' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>SEARCHING FOR NEW</p>
+   <p region='pop2' style='basic' begin='00:11:45:14' end='00:11:48:08' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>HUNTING GROUNDS.</p>
+   <p region='pop1' style='basic' begin='00:11:48:10' end='00:11:55:22' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:11:55:24' end='00:12:01:00' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>AS THE PLAINS OPEN UP</p>
+   <p region='pop2' style='basic' begin='00:11:55:24' end='00:12:01:00' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>IN FRONT OF HER, IT'S CLEAR--</p>
+   <p region='pop1' style='basic' begin='00:12:01:02' end='00:12:03:07' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>THEY'VE ARRIVED!</p>
+   <p region='pop1' style='basic' begin='00:12:03:09' end='00:12:06:11' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:12:06:13' end='00:12:08:23' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>THE SPRAWLING MARSHLANDS</p>
+   <p region='pop2' style='basic' begin='00:12:06:13' end='00:12:08:23' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>ARE AN OASIS</p>
+   <p region='pop1' style='basic' begin='00:12:08:25' end='00:12:11:23' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>FOR ALL THE PARK'S WILDLIFE.</p>
+   <p region='pop1' style='basic' begin='00:12:11:25' end='00:12:15:19' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:12:15:21' end='00:12:19:01' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>TWO GENERATIONS OF GRAZERS</p>
+   <p region='pop2' style='basic' begin='00:12:15:21' end='00:12:19:01' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>HAVE FROLICKED HERE...</p>
+   <p region='pop1' style='basic' begin='00:12:19:03' end='00:12:22:16' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>WITHOUT THREAT...</p>
+   <p region='pop1' style='basic' begin='00:12:22:18' end='00:12:27:01' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>BUT ALL THAT'S</p>
+   <p region='pop2' style='basic' begin='00:12:22:18' end='00:12:27:01' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>ABOUT TO CHANGE.</p>
+   <p region='pop1' style='basic' begin='00:12:27:03' end='00:12:30:03' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>THE LIONS ARE BACK IN TOWN.</p>
+   <p region='pop1' style='basic' begin='00:12:33:08' end='00:12:35:06' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>THE COOL WATER</p>
+   <p region='pop2' style='basic' begin='00:12:33:08' end='00:12:35:06' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>IS A WELCOME DRINK</p>
+   <p region='pop1' style='basic' begin='00:12:35:08' end='00:12:39:25' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>AFTER THE BURNED-OUT MOUNTAINS.</p>
+   <p region='pop1' style='basic' begin='00:12:39:27' end='00:12:44:21' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>[ZEBRA BRAYING]</p>
+   <p region='pop1' style='basic' begin='00:12:44:23' end='00:12:48:17' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THERE'S LUSH GRASSLAND</p>
+   <p region='pop2' style='basic' begin='00:12:44:23' end='00:12:48:17' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>AS FAR AS THE EYE CAN SEE.</p>
+   <p region='pop1' style='basic' begin='00:12:51:01' end='00:12:53:12' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>THE PREY ARE FAT FROM GRAZING...</p>
+   <p region='pop1' style='basic' begin='00:12:53:14' end='00:12:57:00' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>AND BLISSFULLY UNAWARE</p>
+   <p region='pop2' style='basic' begin='00:12:53:14' end='00:12:57:00' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>OF THE DANGER IN THEIR MIDST.</p>
+   <p region='pop1' style='basic' begin='00:12:59:28' end='00:13:02:16' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>A FAMILY OF WARTHOGS APPROACHES,</p>
+   <p region='pop1' style='basic' begin='00:13:02:18' end='00:13:04:16' tts:origin='35% 79.33%' tts:extent='30% 5.33%'>INTRIGUED BY</p>
+   <p region='pop2' style='basic' begin='00:13:02:18' end='00:13:04:16' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>THEIR NEW NEIGHBORS.</p>
+   <p region='pop1' style='basic' begin='00:13:04:18' end='00:13:07:00' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GRUNTING]</p>
+   <p region='pop1' style='basic' begin='00:13:07:02' end='00:13:10:26' tts:origin='10% 79.33%' tts:extent='80% 5.33%'>IN THEIR SHORT LIFESPAN, THEY'VE</p>
+   <p region='pop2' style='basic' begin='00:13:07:02' end='00:13:10:26' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>NEVER SEEN SUCH A BEAST.</p>
+   <p region='pop1' style='basic' begin='00:13:10:28' end='00:13:13:28' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GRUNTING]</p>
+   <p region='pop1' style='basic' begin='00:13:14:00' end='00:13:17:24' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[SNIFFING]</p>
+   <p region='pop1' style='basic' begin='00:13:17:26' end='00:13:19:15' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[BARKING]</p>
+   <p region='pop1' style='basic' begin='00:13:19:17' end='00:13:23:03' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>THE ELDERS OF THE BABOON TROOP</p>
+   <p region='pop2' style='basic' begin='00:13:19:17' end='00:13:23:03' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>RAISE THE ALARM.</p>
+   <p region='pop1' style='basic' begin='00:13:23:05' end='00:13:25:17' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>THEY'VE BEEN AROUND</p>
+   <p region='pop2' style='basic' begin='00:13:23:05' end='00:13:25:17' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>MUCH LONGER,</p>
+   <p region='pop1' style='basic' begin='00:13:25:19' end='00:13:28:02' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>AND A DISTANT MEMORY</p>
+   <p region='pop2' style='basic' begin='00:13:25:19' end='00:13:28:02' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>REARS ITS HEAD.</p>
+   <p region='pop1' style='basic' begin='00:13:28:04' end='00:13:29:22' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[SHRIEKING]</p>
+   <p region='pop1' style='basic' begin='00:13:32:03' end='00:13:35:15' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>THIS IS NOW LION COUNTRY!</p>
+   <p region='pop1' style='basic' begin='00:13:37:25' end='00:13:40:24' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>AND SHEMA'S GOING TO PROVE IT.</p>
+   <p region='pop1' style='basic' begin='00:13:45:20' end='00:13:52:09' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>[BABOONS SQUAWKING]</p>
+   <p region='pop1' style='basic' begin='00:13:52:11' end='00:13:55:19' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>AT 300 POUNDS, A FULL-GROWN TOPI</p>
+   <p region='pop1' style='basic' begin='00:13:55:21' end='00:14:01:15' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>WOULD MAKE A GOOD MEAL</p>
+   <p region='pop2' style='basic' begin='00:13:55:21' end='00:14:01:15' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>FOR FIVE LIONESSES.</p>
+   <p region='pop1' style='basic' begin='00:14:01:17' end='00:14:04:21' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>IT LOOKS LIKE EASY PICKINGS...</p>
+   <p region='pop1' style='basic' begin='00:14:04:23' end='00:14:08:06' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>BUT LOOKS CAN BE DECEIVING.</p>
+   <p region='pop1' style='basic' begin='00:14:08:08' end='00:14:12:21' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>TOPI ARE THE FASTEST ANTELOPE</p>
+   <p region='pop2' style='basic' begin='00:14:08:08' end='00:14:12:21' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>IN AKAGERA.</p>
+   <p region='pop1' style='basic' begin='00:14:12:23' end='00:14:16:18' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>THEY CAN REACH SPEEDS</p>
+   <p region='pop2' style='basic' begin='00:14:12:23' end='00:14:16:18' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>OF UP TO 50 MILES PER HOUR--</p>
+   <p region='pop1' style='basic' begin='00:14:16:20' end='00:14:20:26' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>FASTER THAN ANY PREY</p>
+   <p region='pop2' style='basic' begin='00:14:16:20' end='00:14:20:26' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>THEY HUNTED BACK HOME.</p>
+   <p region='pop1' style='basic' begin='00:14:20:28' end='00:14:24:24' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>IT WILL TAKE SKILL AND STRATEGY</p>
+   <p region='pop2' style='basic' begin='00:14:20:28' end='00:14:24:24' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>TO BRING ONE DOWN.</p>
+   <p region='pop1' style='basic' begin='00:14:26:03' end='00:14:27:13' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[SNORTS]</p>
+   <p region='pop1' style='basic' begin='00:14:28:29' end='00:14:37:23' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:14:37:25' end='00:14:40:05' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>THE TOPI IS SURROUNDED,</p>
+   <p region='pop1' style='basic' begin='00:14:40:07' end='00:14:43:15' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>BUT HIS FLIGHT INSTINCT</p>
+   <p region='pop2' style='basic' begin='00:14:40:07' end='00:14:43:15' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>HASN'T KICKED IN.</p>
+   <p region='pop1' style='basic' begin='00:14:43:17' end='00:14:55:29' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:14:56:01' end='00:14:59:17' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>BINTI BREAKS EARLY,</p>
+   <p region='pop2' style='basic' begin='00:14:56:01' end='00:14:59:17' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>BLOWING SHEMA'S COVER.</p>
+   <p region='pop1' style='basic' begin='00:14:59:19' end='00:15:02:15' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:15:15:07' end='00:15:18:23' tts:origin='30% 79.33%' tts:extent='40% 5.33%'>THE TOPI ESCAPES</p>
+   <p region='pop2' style='basic' begin='00:15:15:07' end='00:15:18:23' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>WITHOUT BREAKING A SWEAT.</p>
+   <p region='pop1' style='basic' begin='00:15:21:08' end='00:15:23:24' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>IT'S A BIG FAIL.</p>
+   <p region='pop1' style='basic' begin='00:15:23:26' end='00:15:25:08' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>THEY HAVE A UNIQUE OPPORTUNITY</p>
+   <p region='pop1' style='basic' begin='00:15:25:10' end='00:15:28:24' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>TO PICK OFF PREY OBLIVIOUS</p>
+   <p region='pop2' style='basic' begin='00:15:25:10' end='00:15:28:24' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>TO DANGER...</p>
+   <p region='pop1' style='basic' begin='00:15:28:26' end='00:15:32:07' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>BUT UNTIL THEY FORM BONDS</p>
+   <p region='pop2' style='basic' begin='00:15:28:26' end='00:15:32:07' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>AND HUNT COOPERATIVELY,</p>
+   <p region='pop1' style='basic' begin='00:15:32:09' end='00:15:35:11' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>THE LIONESSES WILL GO HUNGRY.</p>
+   <p region='pop1' style='basic' begin='00:15:38:29' end='00:15:40:08' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>ACROSS THE LAKE,</p>
+   <p region='pop1' style='basic' begin='00:15:40:10' end='00:15:43:18' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>THE BROTHERS HAVE MADE IT</p>
+   <p region='pop2' style='basic' begin='00:15:40:10' end='00:15:43:18' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>DOWN FROM THE NORTH.</p>
+   <p region='pop1' style='basic' begin='00:15:43:20' end='00:15:47:27' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>THEY'RE APPROACHING THE MARSHES</p>
+   <p region='pop2' style='basic' begin='00:15:43:20' end='00:15:47:27' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>FROM THE OPPOSITE SIDE.</p>
+   <p region='pop1' style='basic' begin='00:15:47:29' end='00:15:50:11' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>BUT THIS IS HIPPO COUNTRY!</p>
+   <p region='pop1' style='basic' begin='00:15:50:13' end='00:15:56:12' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GRUNTING]</p>
+   <p region='pop1' style='basic' begin='00:15:59:22' end='00:16:02:27' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>THESE 3-TON BEASTS</p>
+   <p region='pop2' style='basic' begin='00:15:59:22' end='00:16:02:27' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>RULE THE WATERWAYS,</p>
+   <p region='pop1' style='basic' begin='00:16:02:29' end='00:16:06:09' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>AND THEY DON'T WELCOME VISITORS.</p>
+   <p region='pop1' style='basic' begin='00:16:06:11' end='00:16:10:05' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>A TERRITORIAL BULL WILL TAKE ON</p>
+   <p region='pop2' style='basic' begin='00:16:06:11' end='00:16:10:05' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>ANY INTERLOPER...</p>
+   <p region='pop1' style='basic' begin='00:16:10:07' end='00:16:13:06' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>AND THERE'S A BODY COUNT</p>
+   <p region='pop2' style='basic' begin='00:16:10:07' end='00:16:13:06' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>TO PROVE IT.</p>
+   <p region='pop1' style='basic' begin='00:16:13:08' end='00:16:15:06' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>[BIRDS CHIRPING]</p>
+   <p region='pop1' style='basic' begin='00:16:15:08' end='00:16:16:29' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>FOR HUNGRY SCAVENGERS,</p>
+   <p region='pop1' style='basic' begin='00:16:17:01' end='00:16:21:00' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>A HIPPO CARCASS IS A FEAST</p>
+   <p region='pop2' style='basic' begin='00:16:17:01' end='00:16:21:00' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>FIT FOR A KING...</p>
+   <p region='pop1' style='basic' begin='00:16:21:02' end='00:16:24:08' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>BUT THERE'S NO SUCH THING</p>
+   <p region='pop2' style='basic' begin='00:16:21:02' end='00:16:24:08' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>AS A FREE MEAL.</p>
+   <p region='pop1' style='basic' begin='00:16:28:19' end='00:16:30:13' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>THIS CANTANKEROUS CREATURE</p>
+   <p region='pop1' style='basic' begin='00:16:30:15' end='00:16:33:03' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>IS THE DEADLIEST VEGETARIAN</p>
+   <p region='pop2' style='basic' begin='00:16:30:15' end='00:16:33:03' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>ON THE PLANET.</p>
+   <p region='pop1' style='basic' begin='00:16:33:05' end='00:16:35:11' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[SNORTS]</p>
+   <p region='pop1' style='basic' begin='00:16:35:13' end='00:16:37:10' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>HE'S 40 YEARS OLD...</p>
+   <p region='pop1' style='basic' begin='00:16:37:12' end='00:16:41:07' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>AND HE REMEMBERS THE SMELL</p>
+   <p region='pop2' style='basic' begin='00:16:37:12' end='00:16:41:07' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>OF A DANGEROUS PREDATOR.</p>
+   <p region='pop1' style='basic' begin='00:16:41:09' end='00:16:43:21' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[BELLOWS]</p>
+   <p region='pop1' style='basic' begin='00:16:47:23' end='00:16:51:16' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>INDORO HAS ALSO PICKED UP</p>
+   <p region='pop2' style='basic' begin='00:16:47:23' end='00:16:51:16' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>ON A SCENT.</p>
+   <p region='pop1' style='basic' begin='00:16:51:18' end='00:16:54:15' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>IT'S THE STENCH</p>
+   <p region='pop2' style='basic' begin='00:16:51:18' end='00:16:54:15' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>OF ROTTING FLESH...</p>
+   <p region='pop1' style='basic' begin='00:16:54:17' end='00:16:58:00' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>AND HE'S HUNGRY.</p>
+   <p region='pop1' style='basic' begin='00:16:58:02' end='00:17:02:03' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>BUT TO GET TO THIS FEAST,</p>
+   <p region='pop2' style='basic' begin='00:16:58:02' end='00:17:02:03' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>HE'LL NEED TO BRAVE THE HIPPO</p>
+   <p region='pop1' style='basic' begin='00:17:02:05' end='00:17:05:00' tts:origin='32.5% 79.33%' tts:extent='32.5% 5.33%'>AND NEGOTIATE</p>
+   <p region='pop2' style='basic' begin='00:17:02:05' end='00:17:05:00' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>THE MARSHY TERRAIN.</p>
+   <p region='pop1' style='basic' begin='00:17:05:02' end='00:17:07:15' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROANING]</p>
+   <p region='pop1' style='basic' begin='00:17:12:07' end='00:17:14:26' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>HIS HUNTING SKILLS</p>
+   <p region='pop2' style='basic' begin='00:17:12:07' end='00:17:14:26' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>ARE SORELY LACKING,</p>
+   <p region='pop1' style='basic' begin='00:17:14:28' end='00:17:19:14' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>AND HE WON'T TURN HIS NOSE UP</p>
+   <p region='pop2' style='basic' begin='00:17:14:28' end='00:17:19:14' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>AT A SCAVENGED MEAL.</p>
+   <p region='pop1' style='basic' begin='00:17:19:16' end='00:17:22:24' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>BUT THE STICKY MUD</p>
+   <p region='pop2' style='basic' begin='00:17:19:16' end='00:17:22:24' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>IS A WHOLE NEW CHALLENGE.</p>
+   <p region='pop1' style='basic' begin='00:17:34:26' end='00:17:37:24' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>ALL THAT STANDS BETWEEN INDORO</p>
+   <p region='pop2' style='basic' begin='00:17:34:26' end='00:17:37:24' tts:origin='32.5% 84.66%' tts:extent='32.5% 5.33%'>AND HIS FEAST</p>
+   <p region='pop1' style='basic' begin='00:17:37:26' end='00:17:41:08' tts:origin='32.5% 79.33%' tts:extent='32.5% 5.33%'>IS TWO INCHES</p>
+   <p region='pop2' style='basic' begin='00:17:37:26' end='00:17:41:08' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>OF TOUGH HIPPO HIDE.</p>
+   <p region='pop1' style='basic' begin='00:17:46:01' end='00:17:49:00' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[GROANS]</p>
+   <p region='pop1' style='basic' begin='00:17:49:02' end='00:17:53:06' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>BUT THE MUD TURNS</p>
+   <p region='pop2' style='basic' begin='00:17:49:02' end='00:17:53:06' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>THE BIG CAT SKITTISH.</p>
+   <p region='pop1' style='basic' begin='00:17:53:08' end='00:17:56:27' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>INDORO BACKS UP, DEFEATED.</p>
+   <p region='pop1' style='basic' begin='00:17:59:05' end='00:18:03:12' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>IZUKA TRIES NEXT, BUT HE FACES</p>
+   <p region='pop2' style='basic' begin='00:17:59:05' end='00:18:03:12' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>THE SAME CONUNDRUM.</p>
+   <p region='pop1' style='basic' begin='00:18:05:25' end='00:18:09:01' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:18:09:03' end='00:18:13:25' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THEY'RE TOO VULNERABLE</p>
+   <p region='pop2' style='basic' begin='00:18:09:03' end='00:18:13:25' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>IN THIS UNFAMILIAR MARSH.</p>
+   <p region='pop1' style='basic' begin='00:18:13:27' end='00:18:16:27' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>THE BOYS WILL GO HUNGRY</p>
+   <p region='pop2' style='basic' begin='00:18:13:27' end='00:18:16:27' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>FOR ANOTHER NIGHT.</p>
+   <p region='pop1' style='basic' begin='00:18:21:26' end='00:18:23:16' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GRUNTING]</p>
+   <p region='pop1' style='basic' begin='00:18:27:15' end='00:18:30:18' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>THEIR BEST BET</p>
+   <p region='pop2' style='basic' begin='00:18:27:15' end='00:18:30:18' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>IS TO GO BACK TO BASICS--</p>
+   <p region='pop1' style='basic' begin='00:18:30:20' end='00:18:33:28' tts:origin='30% 79.33%' tts:extent='40% 5.33%'>FIND THE FEMALES</p>
+   <p region='pop2' style='basic' begin='00:18:30:20' end='00:18:33:28' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>AND LET THEM DO THE HUNTING.</p>
+   <p region='pop1' style='basic' begin='00:18:37:21' end='00:18:39:29' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[ROARING]</p>
+   <p region='pop1' style='basic' begin='00:18:40:01' end='00:18:43:09' tts:origin='10% 79.33%' tts:extent='80% 5.33%'>THE BROTHERS CALL INTO THE NIGHT</p>
+   <p region='pop2' style='basic' begin='00:18:40:01' end='00:18:43:09' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>TO ADVERTISE THEIR PRESENCE.</p>
+   <p region='pop1' style='basic' begin='00:18:43:11' end='00:18:45:14' tts:origin='42.5% 84.66%' tts:extent='15% 5.33%'>[ROAR]</p>
+   <p region='pop1' style='basic' begin='00:18:47:14' end='00:18:49:10' tts:origin='42.5% 84.66%' tts:extent='15% 5.33%'>[ROAR]</p>
+   <p region='pop1' style='basic' begin='00:18:49:12' end='00:18:51:28' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>THEIR ROARS ECHO FOR MILES.</p>
+   <p region='pop1' style='basic' begin='00:18:52:00' end='00:19:04:24' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[ROARING]</p>
+   <p region='pop1' style='basic' begin='00:19:04:26' end='00:19:10:28' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>IT'S A SOUND THAT HASN'T BEEN</p>
+   <p region='pop2' style='basic' begin='00:19:04:26' end='00:19:10:28' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>HEARD IN RWANDA FOR 25 YEARS.</p>
+   <p region='pop1' style='basic' begin='00:19:11:00' end='00:19:18:25' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[ROARING]</p>
+   <p region='pop1' style='basic' begin='00:19:18:27' end='00:19:22:09' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>THREE MILES AWAY...</p>
+   <p region='pop2' style='basic' begin='00:19:18:27' end='00:19:22:09' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>SHEMA REPLIES.</p>
+   <p region='pop1' style='basic' begin='00:19:22:11' end='00:19:32:28' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[ROARING]</p>
+   <p region='pop1' style='basic' begin='00:19:34:19' end='00:19:37:09' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>[DISTANT ROARING]</p>
+   <p region='pop1' style='basic' begin='00:19:37:11' end='00:19:40:22' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>THROUGHOUT THE NIGHT</p>
+   <p region='pop2' style='basic' begin='00:19:37:11' end='00:19:40:22' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>THEY CALL TO EACH OTHER...</p>
+   <p region='pop1' style='basic' begin='00:19:40:24' end='00:19:46:08' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>AND IN THE MORNING, SHEMA</p>
+   <p region='pop2' style='basic' begin='00:19:40:24' end='00:19:46:08' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>SETS OFF TO HEED THEIR ROARS.</p>
+   <p region='pop1' style='basic' begin='00:19:46:10' end='00:19:49:14' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>THIS TIME SHE TRAVELS ALONE.</p>
+   <p region='pop1' style='basic' begin='00:19:49:16' end='00:19:54:06' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>SHE'S IN HEAT, AND THERE'S</p>
+   <p region='pop2' style='basic' begin='00:19:49:16' end='00:19:54:06' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>ONLY ONE DESTINATION.</p>
+   <p region='pop1' style='basic' begin='00:19:54:08' end='00:20:02:07' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:20:02:09' end='00:20:10:27' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:20:10:29' end='00:20:13:03' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[PURRING]</p>
+   <p region='pop1' style='basic' begin='00:20:13:05' end='00:20:15:05' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:20:15:07' end='00:20:19:13' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>SHEMA AND INDORO RUB HEADS.</p>
+   <p region='pop1' style='basic' begin='00:20:19:15' end='00:20:23:15' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>IT'S A POSITIVE GREETING</p>
+   <p region='pop2' style='basic' begin='00:20:19:15' end='00:20:23:15' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>AND AN IMPORTANT MOMENT.</p>
+   <p region='pop1' style='basic' begin='00:20:26:25' end='00:20:30:07' tts:origin='37.5% 79.33%' tts:extent='22.5% 5.33%'>FOR SHEMA</p>
+   <p region='pop2' style='basic' begin='00:20:26:25' end='00:20:30:07' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>IT COULD MEAN A MATE...</p>
+   <p region='pop1' style='basic' begin='00:20:30:09' end='00:20:33:28' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>AND FOR THE MALES,</p>
+   <p region='pop2' style='basic' begin='00:20:30:09' end='00:20:33:28' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>A USEFUL HUNTER.</p>
+   <p region='pop1' style='basic' begin='00:20:34:00' end='00:20:40:27' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:20:40:29' end='00:20:43:10' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>AS MATRIARCH OF HER OLD PRIDE,</p>
+   <p region='pop1' style='basic' begin='00:20:43:12' end='00:20:46:10' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>SHEMA WOULD HAVE PROVIDED</p>
+   <p region='pop2' style='basic' begin='00:20:43:12' end='00:20:46:10' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>FOR THE YOUNG MALES.</p>
+   <p region='pop1' style='basic' begin='00:20:46:12' end='00:20:47:27' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>AND TRUE TO FORM,</p>
+   <p region='pop1' style='basic' begin='00:20:47:29' end='00:20:52:16' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>NOW SHE WASTES NO TIME</p>
+   <p region='pop2' style='basic' begin='00:20:47:29' end='00:20:52:16' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>IN SETTING OFF TO HUNT.</p>
+   <p region='pop1' style='basic' begin='00:20:52:18' end='00:20:55:13' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>ONCE AGAIN, SHE HAS NO BACKUP,</p>
+   <p region='pop1' style='basic' begin='00:20:55:15' end='00:20:58:23' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>BUT SHE'S HUNGRY ENOUGH</p>
+   <p region='pop2' style='basic' begin='00:20:55:15' end='00:20:58:23' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>FOR A SOLO ATTEMPT.</p>
+   <p region='pop1' style='basic' begin='00:21:06:20' end='00:21:12:11' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>A YOUNG WATERBUCK</p>
+   <p region='pop2' style='basic' begin='00:21:06:20' end='00:21:12:11' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>IS A TANTALIZING MEAL.</p>
+   <p region='pop1' style='basic' begin='00:21:12:13' end='00:21:17:19' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>BUT IN BROAD DAYLIGHT THE ODDS</p>
+   <p region='pop2' style='basic' begin='00:21:12:13' end='00:21:17:19' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>ARE STACKED AGAINST THE HUNTER.</p>
+   <p region='pop1' style='basic' begin='00:21:17:21' end='00:21:24:11' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:21:24:13' end='00:21:28:25' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>OUT IN THE OPEN, SHEMA'S GOT</p>
+   <p region='pop2' style='basic' begin='00:21:24:13' end='00:21:28:25' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>NO COVER TO MASK HER INTENTIONS.</p>
+   <p region='pop1' style='basic' begin='00:21:28:27' end='00:21:32:26' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:21:32:28' end='00:21:34:12' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>BUT THE INNOCENT WATERBUCK</p>
+   <p region='pop1' style='basic' begin='00:21:34:14' end='00:21:37:06' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>DOESN'T RECOGNIZE</p>
+   <p region='pop2' style='basic' begin='00:21:34:14' end='00:21:37:06' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>THE SMELL OF DANGER.</p>
+   <p region='pop1' style='basic' begin='00:21:40:12' end='00:21:42:05' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>IT DOESN'T RUN.</p>
+   <p region='pop1' style='basic' begin='00:21:42:07' end='00:21:45:09' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>TO SHEMA, THAT'S CONFUSING.</p>
+   <p region='pop1' style='basic' begin='00:21:45:11' end='00:21:50:28' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:21:51:00' end='00:21:52:28' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>SHE BACKS UP...</p>
+   <p region='pop1' style='basic' begin='00:21:53:00' end='00:21:58:01' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:21:58:03' end='00:22:01:15' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>BUT THEN CHANGES HER MIND.</p>
+   <p region='pop1' style='basic' begin='00:22:01:17' end='00:22:04:16' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>IT'S TOO GOOD A CHANCE</p>
+   <p region='pop2' style='basic' begin='00:22:01:17' end='00:22:04:16' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>TO PASS UP.</p>
+   <p region='pop1' style='basic' begin='00:22:04:18' end='00:22:17:27' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:22:17:29' end='00:22:20:25' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>[WATERBUCK WAILING]</p>
+   <p region='pop1' style='basic' begin='00:22:20:27' end='00:22:29:27' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:22:29:29' end='00:22:32:15' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>SHEMA HAS DONE IT!</p>
+   <p region='pop1' style='basic' begin='00:22:32:17' end='00:22:39:13' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>SHE'S THE FIRST LION TO MAKE</p>
+   <p region='pop2' style='basic' begin='00:22:32:17' end='00:22:39:13' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>A KILL IN RWANDA IN 25 YEARS!</p>
+   <p region='pop1' style='basic' begin='00:22:39:15' end='00:22:45:23' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>IT PROVES SHE CAN SURVIVE HERE,</p>
+   <p region='pop2' style='basic' begin='00:22:39:15' end='00:22:45:23' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>EVEN ON HER OWN.</p>
+   <p region='pop1' style='basic' begin='00:22:45:25' end='00:22:51:26' tts:origin='10% 79.33%' tts:extent='80% 5.33%'>MORE SIGNIFICANTLY, SHE'S PROVEN</p>
+   <p region='pop2' style='basic' begin='00:22:45:25' end='00:22:51:26' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>HERSELF TO A POTENTIAL MATE.</p>
+   <p region='pop1' style='basic' begin='00:22:51:28' end='00:22:54:28' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>HER KILL WILL FEED</p>
+   <p region='pop2' style='basic' begin='00:22:51:28' end='00:22:54:28' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>THREE HUNGRY BELLIES</p>
+   <p region='pop1' style='basic' begin='00:22:55:00' end='00:22:58:05' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>AND SOLIDIFY HER ALLIANCE</p>
+   <p region='pop2' style='basic' begin='00:22:55:00' end='00:22:58:05' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>WITH THE MALES.</p>
+   <p region='pop1' style='basic' begin='00:23:01:11' end='00:23:04:18' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[SNARLING]</p>
+   <p region='pop1' style='basic' begin='00:23:04:20' end='00:23:06:22' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>THE BROTHERS ARE STARVING...</p>
+   <p region='pop1' style='basic' begin='00:23:06:24' end='00:23:09:09' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>BUT IT'S NO FREE FOR ALL.</p>
+   <p region='pop1' style='basic' begin='00:23:09:11' end='00:23:11:27' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>FEEDING IS ALL ABOUT HIERARCHY,</p>
+   <p region='pop1' style='basic' begin='00:23:11:29' end='00:23:14:00' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>AND IT'S INDORO</p>
+   <p region='pop2' style='basic' begin='00:23:11:29' end='00:23:14:00' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>WHO TAKES HIS PLACE</p>
+   <p region='pop1' style='basic' begin='00:23:14:02' end='00:23:17:09' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>AT THE TOP OF THIS FOOD CHAIN.</p>
+   <p region='pop1' style='basic' begin='00:23:17:11' end='00:23:24:06' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>HIS ACTIONS CONFIRM</p>
+   <p region='pop2' style='basic' begin='00:23:17:11' end='00:23:24:06' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>THAT HE'S THE ALPHA MALE.</p>
+   <p region='pop1' style='basic' begin='00:23:24:08' end='00:23:29:02' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>IZUKA MUST NEGOTIATE</p>
+   <p region='pop2' style='basic' begin='00:23:24:08' end='00:23:29:02' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>HIS PLACE AT THE MEAL.</p>
+   <p region='pop1' style='basic' begin='00:23:29:04' end='00:23:32:21' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[SNARLING]</p>
+   <p region='pop1' style='basic' begin='00:23:32:23' end='00:23:38:06' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[GRUMBLING]</p>
+   <p region='pop1' style='basic' begin='00:23:45:21' end='00:23:50:02' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>SHEMA, THE BREADWINNER,</p>
+   <p region='pop2' style='basic' begin='00:23:45:21' end='00:23:50:02' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>MUST WAIT.</p>
+   <p region='pop1' style='basic' begin='00:23:50:04' end='00:23:54:02' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>BUT HER CONTRIBUTION</p>
+   <p region='pop2' style='basic' begin='00:23:50:04' end='00:23:54:02' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>WON'T GO UNNOTICED.</p>
+   <p region='pop1' style='basic' begin='00:23:54:04' end='00:23:58:08' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[GRUMBLING]</p>
+   <p region='pop1' style='basic' begin='00:23:58:10' end='00:24:05:07' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>FOR INDORO, AN ALLEGIANCE WITH</p>
+   <p region='pop2' style='basic' begin='00:23:58:10' end='00:24:05:07' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>A STRONG HUNTRESS IS ESSENTIAL.</p>
+   <p region='pop1' style='basic' begin='00:24:05:09' end='00:24:08:15' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>HE CAN'T RELY ON HIS BROTHER</p>
+   <p region='pop2' style='basic' begin='00:24:05:09' end='00:24:08:15' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>FOR FOOD;</p>
+   <p region='pop1' style='basic' begin='00:24:08:17' end='00:24:10:24' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>THEIR SIBLING BOND</p>
+   <p region='pop2' style='basic' begin='00:24:08:17' end='00:24:10:24' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>IS ONLY USEFUL</p>
+   <p region='pop1' style='basic' begin='00:24:10:26' end='00:24:13:03' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>WHEN FIGHTING RIVAL MALES.</p>
+   <p region='pop1' style='basic' begin='00:24:20:03' end='00:24:23:27' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>SHEMA HAS PROVEN HERSELF</p>
+   <p region='pop2' style='basic' begin='00:24:20:03' end='00:24:23:27' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>AS A GOOD PROVIDER,</p>
+   <p region='pop1' style='basic' begin='00:24:23:29' end='00:24:26:10' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>AND SHE'S STILL IN HEAT.</p>
+   <p region='pop1' style='basic' begin='00:24:32:17' end='00:24:36:05' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>TO INDORO, SHE'S IRRESISTIBLE.</p>
+   <p region='pop1' style='basic' begin='00:24:36:07' end='00:24:40:28' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>HIS INSTINCTS DRIVE HIM TO FORM</p>
+   <p region='pop2' style='basic' begin='00:24:36:07' end='00:24:40:28' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>A PRIDE AND SIRE OFFSPRING.</p>
+   <p region='pop1' style='basic' begin='00:24:41:00' end='00:24:43:07' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>SHEMA IS THE KEY.</p>
+   <p region='pop1' style='basic' begin='00:24:45:28' end='00:24:48:21' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:24:48:23' end='00:24:51:28' tts:origin='35% 79.33%' tts:extent='30% 5.33%'>AT DAYBREAK,</p>
+   <p region='pop2' style='basic' begin='00:24:48:23' end='00:24:51:28' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>INDORO TAKES HIS NEW QUEEN</p>
+   <p region='pop1' style='basic' begin='00:24:52:00' end='00:24:53:26' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>TO THE TOP OF THE HILLS,</p>
+   <p region='pop1' style='basic' begin='00:24:53:28' end='00:24:59:18' tts:origin='32.5% 79.33%' tts:extent='32.5% 5.33%'>LEAVING IZUKA</p>
+   <p region='pop2' style='basic' begin='00:24:53:28' end='00:24:59:18' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>TO FEND FOR HIMSELF.</p>
+   <p region='pop1' style='basic' begin='00:24:59:20' end='00:25:01:22' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>HIGH ABOVE THEIR NEW KINGDOM</p>
+   <p region='pop1' style='basic' begin='00:25:01:24' end='00:25:06:16' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>THEY FORGE A FUTURE GENERATION</p>
+   <p region='pop2' style='basic' begin='00:25:01:24' end='00:25:06:16' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>FOR RWANDA'S LION POPULATION.</p>
+   <p region='pop1' style='basic' begin='00:25:06:18' end='00:25:10:21' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:25:10:23' end='00:25:14:24' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>OVER THE NEXT FEW DAYS</p>
+   <p region='pop2' style='basic' begin='00:25:10:23' end='00:25:14:24' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>THEY WILL BE INSEPARABLE,</p>
+   <p region='pop1' style='basic' begin='00:25:14:26' end='00:25:18:02' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>MATING UP TO 100 TIMES PER DAY.</p>
+   <p region='pop1' style='basic' begin='00:25:18:04' end='00:25:20:20' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:25:20:22' end='00:25:24:04' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:25:24:06' end='00:25:37:01' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:25:37:03' end='00:25:39:21' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>[ELEPHANT TRUMPETING]</p>
+   <p region='pop1' style='basic' begin='00:25:47:25' end='00:25:54:17' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>FOUR DAYS LATER, THE COURTING</p>
+   <p region='pop2' style='basic' begin='00:25:47:25' end='00:25:54:17' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>COUPLE RETURN TO THE PLAINS.</p>
+   <p region='pop1' style='basic' begin='00:25:54:19' end='00:25:57:04' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>THEY HAVE COMPANY.</p>
+   <p region='pop1' style='basic' begin='00:25:57:06' end='00:26:00:10' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>THE OTHER LIONESSES</p>
+   <p region='pop2' style='basic' begin='00:25:57:06' end='00:26:00:10' tts:origin='32.5% 84.66%' tts:extent='32.5% 5.33%'>HAVE ARRIVED.</p>
+   <p region='pop1' style='basic' begin='00:26:04:27' end='00:26:08:19' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>INDORO REUNITES</p>
+   <p region='pop2' style='basic' begin='00:26:04:27' end='00:26:08:19' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>WITH HIS BROTHER.</p>
+   <p region='pop1' style='basic' begin='00:26:08:21' end='00:26:13:17' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>HE'S FULL OF VIGOR AND SHOWING</p>
+   <p region='pop2' style='basic' begin='00:26:08:21' end='00:26:13:17' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>THE CONFIDENCE OF AN ALPHA MALE.</p>
+   <p region='pop1' style='basic' begin='00:26:15:00' end='00:26:18:09' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>TOGETHER THE BROTHERS RALLY</p>
+   <p region='pop2' style='basic' begin='00:26:15:00' end='00:26:18:09' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>TO MEET THEIR VISITORS.</p>
+   <p region='pop1' style='basic' begin='00:26:18:11' end='00:26:23:19' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:26:23:21' end='00:26:25:20' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>FOR THE VERY FIRST TIME...</p>
+   <p region='pop1' style='basic' begin='00:26:25:22' end='00:26:30:20' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>ALL SEVEN LIONS COME TOGETHER</p>
+   <p region='pop2' style='basic' begin='00:26:25:22' end='00:26:30:20' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>ON THEIR NEW TURF.</p>
+   <p region='pop1' style='basic' begin='00:26:30:22' end='00:26:34:20' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>THIS IS THE KEY</p>
+   <p region='pop2' style='basic' begin='00:26:30:22' end='00:26:34:20' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>TO THEIR SUCCESS IN RWANDA--</p>
+   <p region='pop1' style='basic' begin='00:26:34:22' end='00:26:36:25' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>FIVE STRONG LIONESSES,</p>
+   <p region='pop1' style='basic' begin='00:26:36:27' end='00:26:42:08' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>WITH A DOMINANT MALE AS MATE</p>
+   <p region='pop2' style='basic' begin='00:26:36:27' end='00:26:42:08' tts:origin='32.5% 84.66%' tts:extent='32.5% 5.33%'>AND GUARDIAN.</p>
+   <p region='pop1' style='basic' begin='00:26:42:10' end='00:26:45:18' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>BUT THEY STILL NEED TO BOND.</p>
+   <p region='pop1' style='basic' begin='00:26:45:20' end='00:26:47:09' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:26:47:11' end='00:26:51:03' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>THEY WON'T BE A PRIDE</p>
+   <p region='pop2' style='basic' begin='00:26:47:11' end='00:26:51:03' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>UNTIL THEY HUNT AS A TEAM...</p>
+   <p region='pop1' style='basic' begin='00:26:51:05' end='00:26:53:27' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>AND PRODUCE CUBS OF THEIR OWN.</p>
+   <p region='pop1' style='basic' begin='00:26:55:19' end='00:27:00:18' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>TO THESE LIONESSES,</p>
+   <p region='pop2' style='basic' begin='00:26:55:19' end='00:27:00:18' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>A DOMINANT MALE IS HOT PROPERTY.</p>
+   <p region='pop1' style='basic' begin='00:27:00:20' end='00:27:05:03' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>SUDDENLY SHEMA MUST FIGHT</p>
+   <p region='pop2' style='basic' begin='00:27:00:20' end='00:27:05:03' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>FOR HER PLACE IN THIS HIERARCHY.</p>
+   <p region='pop1' style='basic' begin='00:27:08:04' end='00:27:11:01' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>SHE MOUNTS A YOUNG FEMALE, KAZI,</p>
+   <p region='pop1' style='basic' begin='00:27:11:03' end='00:27:14:23' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>IN A DISPLAY THAT SHOWS</p>
+   <p region='pop2' style='basic' begin='00:27:11:03' end='00:27:14:23' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>SHE'S THE TOP CAT.</p>
+   <p region='pop1' style='basic' begin='00:27:14:25' end='00:27:24:24' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[PURRING]</p>
+   <p region='pop1' style='basic' begin='00:27:24:26' end='00:27:28:03' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[SNARLING]</p>
+   <p region='pop1' style='basic' begin='00:27:28:05' end='00:27:30:21' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>IT MIGHT NOT BE ENOUGH.</p>
+   <p region='pop1' style='basic' begin='00:27:32:24' end='00:27:35:01' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>KAZI IS IN HEAT, TOO,</p>
+   <p region='pop1' style='basic' begin='00:27:35:03' end='00:27:37:11' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>AND INDORO WILL TAKE</p>
+   <p region='pop2' style='basic' begin='00:27:35:03' end='00:27:37:11' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>EVERY OPPORTUNITY</p>
+   <p region='pop1' style='basic' begin='00:27:37:13' end='00:27:39:28' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>TO PASS ON HIS GENES.</p>
+   <p region='pop1' style='basic' begin='00:27:42:10' end='00:27:46:00' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>BARBS ON HIS PENIS</p>
+   <p region='pop2' style='basic' begin='00:27:42:10' end='00:27:46:00' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>TRIGGER HER OVULATION...</p>
+   <p region='pop1' style='basic' begin='00:27:46:02' end='00:27:52:23' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:27:52:25' end='00:27:56:18' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>BUT THE PAIN ALSO TRIGGERS</p>
+   <p region='pop2' style='basic' begin='00:27:52:25' end='00:27:56:18' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>A HOSTILE REACTION.</p>
+   <p region='pop1' style='basic' begin='00:28:00:04' end='00:28:03:17' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:28:05:26' end='00:28:08:04' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>INDORO IS SHOWING</p>
+   <p region='pop2' style='basic' begin='00:28:05:26' end='00:28:08:04' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>ALL THE HALLMARKS</p>
+   <p region='pop1' style='basic' begin='00:28:08:06' end='00:28:12:08' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>OF A DOMINANT MALE...</p>
+   <p region='pop1' style='basic' begin='00:28:12:10' end='00:28:17:26' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>THROWING HIS WEIGHT AROUND</p>
+   <p region='pop2' style='basic' begin='00:28:12:10' end='00:28:17:26' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>AND MATING REPEATEDLY.</p>
+   <p region='pop1' style='basic' begin='00:28:17:28' end='00:28:20:23' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THIS FREQUENT COUPLING</p>
+   <p region='pop2' style='basic' begin='00:28:17:28' end='00:28:20:23' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>MAXIMIZES HIS CHANCES</p>
+   <p region='pop1' style='basic' begin='00:28:20:25' end='00:28:24:04' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>OF SIRING A NEW GENERATION.</p>
+   <p region='pop1' style='basic' begin='00:28:24:06' end='00:28:26:26' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>ONLY ONE IN THREE ATTEMPTS</p>
+   <p region='pop2' style='basic' begin='00:28:24:06' end='00:28:26:26' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>IS SUCCESSFUL.</p>
+   <p region='pop1' style='basic' begin='00:28:26:28' end='00:28:29:06' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:28:31:04' end='00:28:33:14' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>INDORO HAS COME OF AGE...</p>
+   <p region='pop1' style='basic' begin='00:28:33:16' end='00:28:36:14' tts:origin='30% 79.33%' tts:extent='40% 5.33%'>AND HE'S FORGING</p>
+   <p region='pop2' style='basic' begin='00:28:33:16' end='00:28:36:14' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>THE PRIDE DYNAMICS.</p>
+   <p region='pop1' style='basic' begin='00:28:40:25' end='00:28:43:06' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>BUT JUST AS THE GROUP</p>
+   <p region='pop2' style='basic' begin='00:28:40:25' end='00:28:43:06' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>COMES TOGETHER,</p>
+   <p region='pop1' style='basic' begin='00:28:43:08' end='00:28:45:05' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>SOMETHING CHANGES.</p>
+   <p region='pop1' style='basic' begin='00:28:45:07' end='00:28:47:28' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:28:48:00' end='00:28:50:12' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>SHEMA SETS OFF ALONE...</p>
+   <p region='pop1' style='basic' begin='00:28:50:14' end='00:28:53:20' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>LEAVING THE LION POLITICS</p>
+   <p region='pop2' style='basic' begin='00:28:50:14' end='00:28:53:20' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>TO THE OTHERS.</p>
+   <p region='pop1' style='basic' begin='00:28:56:27' end='00:29:00:13' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>A DEEP INSTINCT</p>
+   <p region='pop2' style='basic' begin='00:28:56:27' end='00:29:00:13' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>IS CALLING HER AWAY.</p>
+   <p region='pop1' style='basic' begin='00:29:02:14' end='00:29:05:16' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>SURVIVAL ON HER OWN IS RISKY...</p>
+   <p region='pop1' style='basic' begin='00:29:05:18' end='00:29:10:17' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>BUT OF THE SEVEN, ONLY SHEMA</p>
+   <p region='pop2' style='basic' begin='00:29:05:18' end='00:29:10:17' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>HAS PROVEN HERSELF AS A HUNTER.</p>
+   <p region='pop1' style='basic' begin='00:29:12:25' end='00:29:16:29' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>HER DEPARTURE COULD SPELL</p>
+   <p region='pop2' style='basic' begin='00:29:12:25' end='00:29:16:29' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>DISASTER FOR THEM ALL.</p>
+   <p region='pop1' style='basic' begin='00:29:17:01' end='00:29:24:05' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:29:24:07' end='00:29:25:25' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>AS THE DOMINANT MALE,</p>
+   <p region='pop1' style='basic' begin='00:29:25:27' end='00:29:29:28' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>INDORO GETS THE FIRST SHOT</p>
+   <p region='pop2' style='basic' begin='00:29:25:27' end='00:29:29:28' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>AT ALL THE FEMALES.</p>
+   <p region='pop1' style='basic' begin='00:29:30:00' end='00:29:32:13' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>IT'S NOT NEGOTIABLE.</p>
+   <p region='pop1' style='basic' begin='00:29:32:15' end='00:29:34:09' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[GROWLS]</p>
+   <p region='pop1' style='basic' begin='00:29:34:11' end='00:29:38:28' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>BUT WHEN HE'S NOT AROUND,</p>
+   <p region='pop2' style='basic' begin='00:29:34:11' end='00:29:38:28' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>IZUKA SNEAKS AWAY WITH KAZI.</p>
+   <p region='pop1' style='basic' begin='00:29:44:14' end='00:29:50:24' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[PURRING]</p>
+   <p region='pop1' style='basic' begin='00:29:50:26' end='00:29:54:20' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>IT'S A RARE OPPORTUNITY</p>
+   <p region='pop2' style='basic' begin='00:29:50:26' end='00:29:54:20' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>FOR A QUICK FLING--</p>
+   <p region='pop1' style='basic' begin='00:29:54:22' end='00:29:59:00' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>HE'LL ONLY EVER GET THIS CHANCE</p>
+   <p region='pop2' style='basic' begin='00:29:54:22' end='00:29:59:00' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>WHEN HIS BROTHER LOSES STAMINA.</p>
+   <p region='pop1' style='basic' begin='00:29:59:02' end='00:30:01:01' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[PURRING]</p>
+   <p region='pop1' style='basic' begin='00:30:01:03' end='00:30:05:03' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:30:05:27' end='00:30:17:00' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[ROARING]</p>
+   <p region='pop1' style='basic' begin='00:30:17:02' end='00:30:25:07' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:30:25:09' end='00:30:29:12' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>IT'S BEEN A WEEK SINCE SHEMA</p>
+   <p region='pop2' style='basic' begin='00:30:25:09' end='00:30:29:12' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>LEFT THE REST OF THE PRIDE.</p>
+   <p region='pop1' style='basic' begin='00:30:29:14' end='00:30:31:15' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>TEN MILES NORTH OF THE MARSH,</p>
+   <p region='pop1' style='basic' begin='00:30:31:17' end='00:30:36:25' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>SHE'S FOUND THE PERFECT HABITAT</p>
+   <p region='pop2' style='basic' begin='00:30:31:17' end='00:30:36:25' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>TO STRIKE OUT ON HER OWN.</p>
+   <p region='pop1' style='basic' begin='00:30:36:27' end='00:30:39:28' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>IT'S A HUNTER'S PARADISE--</p>
+   <p region='pop1' style='basic' begin='00:30:40:00' end='00:30:44:09' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>FLAT GRASSY PLAINS</p>
+   <p region='pop2' style='basic' begin='00:30:40:00' end='00:30:44:09' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>AND AN ABUNDANCE OF PREY.</p>
+   <p region='pop1' style='basic' begin='00:30:44:11' end='00:30:47:16' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:30:47:18' end='00:30:49:13' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[SNORTS]</p>
+   <p region='pop1' style='basic' begin='00:30:49:15' end='00:30:52:04' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:30:52:10' end='00:30:54:19' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>SHE SOUGHT IT OUT FOR A REASON--</p>
+   <p region='pop1' style='basic' begin='00:30:54:21' end='00:30:57:17' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>THE SAME REASON</p>
+   <p region='pop2' style='basic' begin='00:30:54:21' end='00:30:57:17' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>SHE SET OUT ON HER OWN.</p>
+   <p region='pop1' style='basic' begin='00:30:57:19' end='00:31:02:25' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:31:02:27' end='00:31:06:19' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>SHE'S NO LONGER HUNTING</p>
+   <p region='pop2' style='basic' begin='00:31:02:27' end='00:31:06:19' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>FOR HER OWN SURVIVAL.</p>
+   <p region='pop1' style='basic' begin='00:31:06:21' end='00:31:11:05' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>SHE'S CARRYING</p>
+   <p region='pop2' style='basic' begin='00:31:06:21' end='00:31:11:05' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>THE FUTURE HEIRS OF AKAGERA.</p>
+   <p region='pop1' style='basic' begin='00:31:11:07' end='00:31:14:15' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>AND THAT'S AN HONOR</p>
+   <p region='pop2' style='basic' begin='00:31:11:07' end='00:31:14:15' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>SHE'LL KILL FOR.</p>
+   <p region='pop1' style='basic' begin='00:31:17:16' end='00:31:19:11' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>THE IMPALA OF AKAGERA</p>
+   <p region='pop1' style='basic' begin='00:31:19:13' end='00:31:24:29' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>ARE LARGER AND STRONGER THAN</p>
+   <p region='pop2' style='basic' begin='00:31:19:13' end='00:31:24:29' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>THOSE SHEMA HUNTED BACK HOME.</p>
+   <p region='pop1' style='basic' begin='00:31:25:01' end='00:31:28:12' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>THEIR HORNS TOWER OVER THEM</p>
+   <p region='pop2' style='basic' begin='00:31:25:01' end='00:31:28:12' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>LIKE GREAT SPEARS.</p>
+   <p region='pop1' style='basic' begin='00:31:28:14' end='00:31:33:15' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:31:33:17' end='00:31:35:25' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>SHEMA IS UNDAUNTED.</p>
+   <p region='pop1' style='basic' begin='00:31:35:27' end='00:31:37:28' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>SHE SITS TIGHT.</p>
+   <p region='pop1' style='basic' begin='00:31:40:09' end='00:31:43:28' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>AS A LONER, HER ONLY OPTION</p>
+   <p region='pop2' style='basic' begin='00:31:40:09' end='00:31:43:28' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>IS AMBUSH.</p>
+   <p region='pop1' style='basic' begin='00:31:44:00' end='00:31:55:04' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:31:55:06' end='00:32:02:19' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>[IMPALA SCREAMING]</p>
+   <p region='pop1' style='basic' begin='00:32:02:21' end='00:32:05:06' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:32:13:02' end='00:32:16:24' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>SHEMA'S JAWS CLAMP DOWN</p>
+   <p region='pop2' style='basic' begin='00:32:13:02' end='00:32:16:24' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>ON THE IMPALA'S WINDPIPE,</p>
+   <p region='pop1' style='basic' begin='00:32:16:26' end='00:32:18:27' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>SUFFOCATING HIM.</p>
+   <p region='pop1' style='basic' begin='00:32:22:14' end='00:32:26:20' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>SHE DRAGS HER PREY TO THE SHADE.</p>
+   <p region='pop1' style='basic' begin='00:32:26:22' end='00:32:29:29' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>HIS BROKEN HIND LEG</p>
+   <p region='pop2' style='basic' begin='00:32:26:22' end='00:32:29:29' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>SEALS HIS FATE.</p>
+   <p region='pop1' style='basic' begin='00:32:33:09' end='00:32:34:10' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROANING]</p>
+   <p region='pop1' style='basic' begin='00:32:34:12' end='00:32:38:02' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>THE IMPALA ARE UNSURE</p>
+   <p region='pop2' style='basic' begin='00:32:34:12' end='00:32:38:02' tts:origin='32.5% 84.66%' tts:extent='32.5% 5.33%'>HOW TO REACT.</p>
+   <p region='pop1' style='basic' begin='00:32:38:04' end='00:32:39:22' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[SNORTS]</p>
+   <p region='pop1' style='basic' begin='00:32:39:24' end='00:32:43:15' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>THEY'VE NEVER WITNESSED</p>
+   <p region='pop2' style='basic' begin='00:32:39:24' end='00:32:43:15' tts:origin='32.5% 84.66%' tts:extent='35% 5.33%'>A KILL BEFORE.</p>
+   <p region='pop1' style='basic' begin='00:32:43:17' end='00:32:46:22' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>SHEMA'S ALSO IN OVER HER HEAD.</p>
+   <p region='pop1' style='basic' begin='00:32:46:24' end='00:32:49:21' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>SHE UNDERESTIMATED</p>
+   <p region='pop2' style='basic' begin='00:32:46:24' end='00:32:49:21' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>THE STRENGTH OF THIS RAM.</p>
+   <p region='pop1' style='basic' begin='00:32:49:23' end='00:32:51:06' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROANING]</p>
+   <p region='pop1' style='basic' begin='00:32:53:23' end='00:32:58:17' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROANING]</p>
+   <p region='pop1' style='basic' begin='00:32:58:19' end='00:33:01:28' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>ON THREE LEGS HE'S AT HER MERCY,</p>
+   <p region='pop1' style='basic' begin='00:33:02:00' end='00:33:06:05' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>BUT SHE MUST STAY CLEAR</p>
+   <p region='pop2' style='basic' begin='00:33:02:00' end='00:33:06:05' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>OF HIS LETHAL HORNS.</p>
+   <p region='pop1' style='basic' begin='00:33:11:07' end='00:33:14:24' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>SHEMA DELIVERS</p>
+   <p region='pop2' style='basic' begin='00:33:11:07' end='00:33:14:24' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>HER KISS OF DEATH.</p>
+   <p region='pop1' style='basic' begin='00:33:26:25' end='00:33:31:00' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>SHE NO LONGER NEEDS</p>
+   <p region='pop2' style='basic' begin='00:33:26:25' end='00:33:31:00' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>TO SHARE HER KILLS,</p>
+   <p region='pop1' style='basic' begin='00:33:31:02' end='00:33:34:22' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>BUT HUNTING ON HER OWN IS RISKY,</p>
+   <p region='pop1' style='basic' begin='00:33:34:24' end='00:33:37:13' tts:origin='32.5% 79.33%' tts:extent='32.5% 5.33%'>AND IT'S COME</p>
+   <p region='pop2' style='basic' begin='00:33:34:24' end='00:33:37:13' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>AT A VERY HIGH PRICE.</p>
+   <p region='pop1' style='basic' begin='00:33:37:15' end='00:33:38:23' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[SNORTS]</p>
+   <p region='pop1' style='basic' begin='00:33:46:00' end='00:33:49:00' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>ONE SPEAR-SHARP HORN</p>
+   <p region='pop2' style='basic' begin='00:33:46:00' end='00:33:49:00' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>HAS FOUND ITS MARK</p>
+   <p region='pop1' style='basic' begin='00:33:49:02' end='00:33:51:09' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>AND PUNCTURED HER LEG.</p>
+   <p region='pop1' style='basic' begin='00:33:58:06' end='00:34:00:14' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>THE WOUND IS SMALL BUT DEEP,</p>
+   <p region='pop1' style='basic' begin='00:34:00:16' end='00:34:03:24' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>AND HER MUSCLES ARE STILL</p>
+   <p region='pop2' style='basic' begin='00:34:00:16' end='00:34:03:24' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>HURTING FROM THE STRUGGLE.</p>
+   <p region='pop1' style='basic' begin='00:34:06:10' end='00:34:12:00' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>HER BELLY'S FULL,</p>
+   <p region='pop2' style='basic' begin='00:34:06:10' end='00:34:12:00' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>BUT SHE'S BARELY ABLE TO WALK.</p>
+   <p region='pop1' style='basic' begin='00:34:12:02' end='00:34:18:04' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>ALONE AND UNABLE TO HUNT,</p>
+   <p region='pop2' style='basic' begin='00:34:12:02' end='00:34:18:04' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>SHE'LL STARVE TO DEATH.</p>
+   <p region='pop1' style='basic' begin='00:34:20:13' end='00:34:23:08' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>SHEMA'S FUTURE LOOKS BLEAK.</p>
+   <p region='pop1' style='basic' begin='00:34:24:00' end='00:34:31:16' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[THUNDER]</p>
+   <p region='pop1' style='basic' begin='00:34:31:18' end='00:34:33:01' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>A FAMILIAR RUMBLE ECHOES</p>
+   <p region='pop1' style='basic' begin='00:34:33:03' end='00:34:38:01' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>THROUGH THE ROLLING HILLS</p>
+   <p region='pop2' style='basic' begin='00:34:33:03' end='00:34:38:01' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>AND GRASSY PLAINS.</p>
+   <p region='pop1' style='basic' begin='00:34:38:03' end='00:34:44:28' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[THUNDER]</p>
+   <p region='pop1' style='basic' begin='00:34:45:00' end='00:34:50:15' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>IT'S THE START</p>
+   <p region='pop2' style='basic' begin='00:34:45:00' end='00:34:50:15' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>OF THE RAINY SEASON.</p>
+   <p region='pop1' style='basic' begin='00:34:50:17' end='00:34:54:03' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>IN RWANDA THE HEAVY RAINS</p>
+   <p region='pop2' style='basic' begin='00:34:50:17' end='00:34:54:03' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>LAST SEVERAL MONTHS--</p>
+   <p region='pop1' style='basic' begin='00:34:54:05' end='00:34:57:02' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>FLOODING THE PLAINS</p>
+   <p region='pop2' style='basic' begin='00:34:54:05' end='00:34:57:02' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>AND CHANGING THE LANDSCAPE.</p>
+   <p region='pop1' style='basic' begin='00:34:57:04' end='00:35:00:09' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[THUNDER]</p>
+   <p region='pop1' style='basic' begin='00:35:00:11' end='00:35:03:24' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>FOR THE SEVEN LIONS</p>
+   <p region='pop2' style='basic' begin='00:35:00:11' end='00:35:03:24' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>OF AKAGERA NATIONAL PARK,</p>
+   <p region='pop1' style='basic' begin='00:35:03:26' end='00:35:06:11' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>THIS IS A MISERABLE TIME.</p>
+   <p region='pop1' style='basic' begin='00:35:06:13' end='00:35:09:21' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>CATS NOTORIOUSLY HATE WATER.</p>
+   <p region='pop1' style='basic' begin='00:35:11:11' end='00:35:16:14' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>BACK HOME, THE RAINY SEASON</p>
+   <p region='pop2' style='basic' begin='00:35:11:11' end='00:35:16:14' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>WAS DEFINED BY A FEW BIG STORMS.</p>
+   <p region='pop1' style='basic' begin='00:35:16:16' end='00:35:19:01' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[THUNDER]</p>
+   <p region='pop1' style='basic' begin='00:35:19:03' end='00:35:23:19' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>THIS INCESSANT DOWNPOUR</p>
+   <p region='pop2' style='basic' begin='00:35:19:03' end='00:35:23:19' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>IS NOT WHAT THEY SIGNED UP FOR.</p>
+   <p region='pop1' style='basic' begin='00:35:36:09' end='00:35:39:15' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>[BIRDS SINGING]</p>
+   <p region='pop1' style='basic' begin='00:35:39:17' end='00:35:41:20' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>THE RAINS HAVE COME AND GONE,</p>
+   <p region='pop1' style='basic' begin='00:35:41:22' end='00:35:46:08' tts:origin='10% 79.33%' tts:extent='80% 5.33%'>AND THE LUSH PLAINS ARE RESTORED</p>
+   <p region='pop2' style='basic' begin='00:35:41:22' end='00:35:46:08' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>TO AN EDEN ONCE MORE.</p>
+   <p region='pop1' style='basic' begin='00:35:50:25' end='00:35:53:08' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>THE LIONS HAVE SURVIVED THE WET</p>
+   <p region='pop1' style='basic' begin='00:35:53:10' end='00:35:57:28' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>AND ESTABLISHED THEIR HOME</p>
+   <p region='pop2' style='basic' begin='00:35:53:10' end='00:35:57:28' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>IN THIS NEW KINGDOM.</p>
+   <p region='pop1' style='basic' begin='00:35:58:00' end='00:36:01:02' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>SHEMA HAS NOT RETURNED...</p>
+   <p region='pop1' style='basic' begin='00:36:01:04' end='00:36:02:17' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>BUT NEW BONDS ARE FORMING</p>
+   <p region='pop1' style='basic' begin='00:36:02:19' end='00:36:05:10' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>BETWEEN THE REMAINING</p>
+   <p region='pop2' style='basic' begin='00:36:02:19' end='00:36:05:10' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>FOUR LIONESSES.</p>
+   <p region='pop1' style='basic' begin='00:36:07:10' end='00:36:10:23' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>KAZI HAS TAKEN BINTI</p>
+   <p region='pop2' style='basic' begin='00:36:07:10' end='00:36:10:23' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>UNDER HER WING...</p>
+   <p region='pop1' style='basic' begin='00:36:10:25' end='00:36:14:22' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>AND THE DYNAMICS OF A PRIDE</p>
+   <p region='pop2' style='basic' begin='00:36:10:25' end='00:36:14:22' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>ARE STARTING TO SHOW.</p>
+   <p region='pop1' style='basic' begin='00:36:14:24' end='00:36:19:12' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>BUT THERE'S STILL ONE CRITICAL</p>
+   <p region='pop2' style='basic' begin='00:36:14:24' end='00:36:19:12' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>MILESTONE ON THEIR HORIZON--</p>
+   <p region='pop1' style='basic' begin='00:36:19:14' end='00:36:22:00' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>TO QUALIFY AS A TRUE PRIDE,</p>
+   <p region='pop1' style='basic' begin='00:36:22:02' end='00:36:25:14' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>THEY NEED TO HUNT</p>
+   <p region='pop2' style='basic' begin='00:36:22:02' end='00:36:25:14' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>AS A COORDINATED TEAM.</p>
+   <p region='pop1' style='basic' begin='00:36:25:16' end='00:36:35:11' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GRUNTING]</p>
+   <p region='pop1' style='basic' begin='00:36:37:10' end='00:36:39:23' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>IN A MATERNAL PRIDE,</p>
+   <p region='pop2' style='basic' begin='00:36:37:10' end='00:36:39:23' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>EACH LION LEARNS</p>
+   <p region='pop1' style='basic' begin='00:36:39:25' end='00:36:45:08' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>A SPECIALIZED HUNTING ROLE</p>
+   <p region='pop2' style='basic' begin='00:36:39:25' end='00:36:45:08' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>FROM BIRTH.</p>
+   <p region='pop1' style='basic' begin='00:36:45:10' end='00:36:50:02' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THEY'RE EITHER A WING,</p>
+   <p region='pop2' style='basic' begin='00:36:45:10' end='00:36:50:02' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>WHO STALKS AND ENCIRCLES PREY,</p>
+   <p region='pop1' style='basic' begin='00:36:50:04' end='00:36:54:08' tts:origin='35% 79.33%' tts:extent='30% 5.33%'>OR A CENTER,</p>
+   <p region='pop2' style='basic' begin='00:36:50:04' end='00:36:54:08' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>WHO LIES IN AMBUSH TO TRAP IT.</p>
+   <p region='pop1' style='basic' begin='00:36:54:10' end='00:36:56:25' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>[BUFFALO GRUNTING]</p>
+   <p region='pop1' style='basic' begin='00:36:56:27' end='00:36:58:03' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROWLING]</p>
+   <p region='pop1' style='basic' begin='00:37:02:10' end='00:37:05:06' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GRUNTING]</p>
+   <p region='pop1' style='basic' begin='00:37:05:08' end='00:37:08:05' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>THESE SIX LIONS</p>
+   <p region='pop2' style='basic' begin='00:37:05:08' end='00:37:08:05' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>KNOW THEIR ROLES.</p>
+   <p region='pop1' style='basic' begin='00:37:08:07' end='00:37:12:01' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>THEY JUST CAN'T FIGURE OUT</p>
+   <p region='pop2' style='basic' begin='00:37:08:07' end='00:37:12:01' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>HOW TO PULL TOGETHER AS A TEAM.</p>
+   <p region='pop1' style='basic' begin='00:37:22:11' end='00:37:23:24' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[GRUMBLING]</p>
+   <p region='pop1' style='basic' begin='00:37:23:26' end='00:37:27:19' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>BACK HOME, BUFFALO WAS A STAPLE</p>
+   <p region='pop2' style='basic' begin='00:37:23:26' end='00:37:27:19' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>ON THEIR MENU...</p>
+   <p region='pop1' style='basic' begin='00:37:27:21' end='00:37:31:04' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>BUT UNTIL THEY CAN SYNCHRONIZE</p>
+   <p region='pop2' style='basic' begin='00:37:27:21' end='00:37:31:04' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>THEIR HUNTING STRATEGY,</p>
+   <p region='pop1' style='basic' begin='00:37:31:06' end='00:37:34:11' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>THEY'LL BE FORCED TO EAT</p>
+   <p region='pop2' style='basic' begin='00:37:31:06' end='00:37:34:11' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>HUMBLE PIE.</p>
+   <p region='pop1' style='basic' begin='00:37:38:09' end='00:37:41:03' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:37:41:05' end='00:37:45:09' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>ACROSS THE MARSH, SHEMA</p>
+   <p region='pop2' style='basic' begin='00:37:41:05' end='00:37:45:09' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>IS STILL KEEPING HER DISTANCE.</p>
+   <p region='pop1' style='basic' begin='00:37:45:11' end='00:37:51:05' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:37:51:07' end='00:37:56:15' tts:origin='30% 79.33%' tts:extent='40% 5.33%'>IT'S BEEN TOUGH,</p>
+   <p region='pop2' style='basic' begin='00:37:51:07' end='00:37:56:15' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>BUT SHE'S A SURVIVOR...</p>
+   <p region='pop1' style='basic' begin='00:37:56:17' end='00:37:59:29' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>AND NOW HER DAYS OF SOLITUDE</p>
+   <p region='pop2' style='basic' begin='00:37:56:17' end='00:37:59:29' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>ARE OVER.</p>
+   <p region='pop1' style='basic' begin='00:38:03:13' end='00:38:06:23' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>SHE'S A SINGLE MOM</p>
+   <p region='pop2' style='basic' begin='00:38:03:13' end='00:38:06:23' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>TO THREE HEALTHY CUBS.</p>
+   <p region='pop1' style='basic' begin='00:38:06:25' end='00:38:16:19' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:38:16:21' end='00:38:20:26' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>GOING SOLO WAS A RISK, BUT SHE</p>
+   <p region='pop2' style='basic' begin='00:38:16:21' end='00:38:20:26' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>NEEDED TO FIND A SAFE HIDEOUT</p>
+   <p region='pop1' style='basic' begin='00:38:20:28' end='00:38:23:19' tts:origin='10% 84.66%' tts:extent='77.5% 5.33%'>TO GIVE BIRTH TO HER OFFSPRING.</p>
+   <p region='pop1' style='basic' begin='00:38:25:14' end='00:38:28:12' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>AS FRAGILE NEWBORNS,</p>
+   <p region='pop2' style='basic' begin='00:38:25:14' end='00:38:28:12' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>SHE COULDN'T INTRODUCE THEM</p>
+   <p region='pop1' style='basic' begin='00:38:28:14' end='00:38:32:02' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>INTO AN UNRULY GROUP</p>
+   <p region='pop2' style='basic' begin='00:38:28:14' end='00:38:32:02' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>OF NON-RELATED LIONS.</p>
+   <p region='pop1' style='basic' begin='00:38:32:04' end='00:38:37:00' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:38:37:02' end='00:38:42:04' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>RIGHT NOW, THEIR SURVIVAL</p>
+   <p region='pop2' style='basic' begin='00:38:37:02' end='00:38:42:04' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>DEPENDS ENTIRELY ON HER.</p>
+   <p region='pop1' style='basic' begin='00:38:42:06' end='00:38:46:20' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>SHE MUST KEEP HER STRENGTH UP</p>
+   <p region='pop2' style='basic' begin='00:38:42:06' end='00:38:46:20' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>TO FULFILL HER MATERNAL ROLES.</p>
+   <p region='pop1' style='basic' begin='00:38:46:22' end='00:38:52:26' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:38:52:28' end='00:38:55:18' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>SHE NEEDS TO HUNT...</p>
+   <p region='pop1' style='basic' begin='00:38:55:20' end='00:38:59:07' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>AND THAT MEANS LEAVING</p>
+   <p region='pop2' style='basic' begin='00:38:55:20' end='00:38:59:07' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>HER BABIES ALONE.</p>
+   <p region='pop1' style='basic' begin='00:38:59:09' end='00:39:01:12' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:39:01:14' end='00:39:05:12' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>[HYENAS WHOOPING]</p>
+   <p region='pop1' style='basic' begin='00:39:07:15' end='00:39:08:29' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>[HYENA YIPPING]</p>
+   <p region='pop1' style='basic' begin='00:39:09:01' end='00:39:13:25' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>SHEMA WAITS FOR NIGHTFALL</p>
+   <p region='pop2' style='basic' begin='00:39:09:01' end='00:39:13:25' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>FOR THE BEST CHANCE TO KILL.</p>
+   <p region='pop1' style='basic' begin='00:39:13:27' end='00:39:17:14' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>HUNTING ON HER OWN,</p>
+   <p region='pop2' style='basic' begin='00:39:13:27' end='00:39:17:14' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>SHE HAS LIMITED OPTIONS.</p>
+   <p region='pop1' style='basic' begin='00:39:19:13' end='00:39:21:16' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>SHE NEEDS TO AMBUSH...</p>
+   <p region='pop1' style='basic' begin='00:39:21:18' end='00:39:24:29' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>AND SHE CAN'T PIT HERSELF</p>
+   <p region='pop2' style='basic' begin='00:39:21:18' end='00:39:24:29' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>AGAINST ANYTHING TOO BIG.</p>
+   <p region='pop1' style='basic' begin='00:39:29:04' end='00:39:33:03' tts:origin='15% 79.33%' tts:extent='70% 5.33%'>STAKING OUT A WARTHOG BURROW</p>
+   <p region='pop2' style='basic' begin='00:39:29:04' end='00:39:33:03' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>IS A GOOD PLAN.</p>
+   <p region='pop1' style='basic' begin='00:39:35:15' end='00:39:37:27' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>SHEMA SITS UPWIND...</p>
+   <p region='pop1' style='basic' begin='00:39:37:29' end='00:39:39:21' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>MAKING THE PIGS BOLT!</p>
+   <p region='pop1' style='basic' begin='00:39:39:23' end='00:39:45:24' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>[GRUNTING AND SQUEALING]</p>
+   <p region='pop1' style='basic' begin='00:39:46:18' end='00:39:48:01' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>[WARTHOG SQUEALING]</p>
+   <p region='pop1' style='basic' begin='00:39:48:03' end='00:39:50:04' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>SHE'S RIGHT ON TARGET.</p>
+   <p region='pop1' style='basic' begin='00:39:50:06' end='00:39:53:26' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[SQUEALING]</p>
+   <p region='pop1' style='basic' begin='00:39:53:28' end='00:39:55:23' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>SHE GOES FOR THE THROAT,</p>
+   <p region='pop1' style='basic' begin='00:39:55:25' end='00:39:59:24' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>BUT THIS TIME HER PREY</p>
+   <p region='pop2' style='basic' begin='00:39:55:25' end='00:39:59:24' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>HAS LETHAL TUSKS IN FRONT.</p>
+   <p region='pop1' style='basic' begin='00:40:02:28' end='00:40:06:11' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>ONE GOOD HEAD-BUTT</p>
+   <p region='pop2' style='basic' begin='00:40:02:28' end='00:40:06:11' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>COULD MAIM HER.</p>
+   <p region='pop1' style='basic' begin='00:40:11:19' end='00:40:16:29' tts:origin='12.5% 79.33%' tts:extent='77.5% 5.33%'>BACK IN THEIR DEN, SHEMA'S CUBS</p>
+   <p region='pop2' style='basic' begin='00:40:11:19' end='00:40:16:29' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>AWAIT THEIR FIRST SOLID MEAL.</p>
+   <p region='pop1' style='basic' begin='00:40:17:01' end='00:40:24:15' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>[FLIES BUZZING]</p>
+   <p region='pop1' style='basic' begin='00:40:24:17' end='00:40:27:06' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>THERE ARE MIXED REACTIONS--</p>
+   <p region='pop1' style='basic' begin='00:40:27:08' end='00:40:33:02' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>ONE CUB DIGS IN</p>
+   <p region='pop2' style='basic' begin='00:40:27:08' end='00:40:33:02' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>WHILE ANOTHER SEEMS DAUNTED.</p>
+   <p region='pop1' style='basic' begin='00:40:33:04' end='00:40:44:04' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[PURRING]</p>
+   <p region='pop1' style='basic' begin='00:40:44:06' end='00:40:48:28' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>FOR SOME, MOTHER'S MILK</p>
+   <p region='pop2' style='basic' begin='00:40:44:06' end='00:40:48:28' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>IS STILL THE MEAL OF CHOICE.</p>
+   <p region='pop1' style='basic' begin='00:40:52:26' end='00:40:57:26' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>IN RWANDA, SHEMA MEANS &quot;PRIDE,&quot;</p>
+   <p region='pop2' style='basic' begin='00:40:52:26' end='00:40:57:26' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>AND FOR THIS PROUD LIONESS,</p>
+   <p region='pop1' style='basic' begin='00:40:57:28' end='00:41:00:13' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>HER THREE CUBS</p>
+   <p region='pop2' style='basic' begin='00:40:57:28' end='00:41:00:13' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>ARE THE FIRST GENERATION</p>
+   <p region='pop1' style='basic' begin='00:41:00:15' end='00:41:04:09' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>OF A NEW BLOODLINE IN AKAGERA.</p>
+   <p region='pop1' style='basic' begin='00:41:04:11' end='00:41:07:17' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>SOON THEY WILL JOIN FORCES</p>
+   <p region='pop2' style='basic' begin='00:41:04:11' end='00:41:07:17' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>WITH THE OTHERS...</p>
+   <p region='pop1' style='basic' begin='00:41:07:19' end='00:41:12:15' tts:origin='17.5% 79.33%' tts:extent='65% 5.33%'>AND CEMENT THE FOUNDATIONS</p>
+   <p region='pop2' style='basic' begin='00:41:07:19' end='00:41:12:15' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>OF A TRUE MATERNAL LION PRIDE,</p>
+   <p region='pop1' style='basic' begin='00:41:12:17' end='00:41:15:09' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>WITH INDORO AS THEIR KING.</p>
+   <p region='pop1' style='basic' begin='00:41:16:29' end='00:41:20:07' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>SHEMA HAS PLAYED HER ROLE</p>
+   <p region='pop2' style='basic' begin='00:41:16:29' end='00:41:20:07' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>AND MADE HER MARK</p>
+   <p region='pop1' style='basic' begin='00:41:20:09' end='00:41:22:27' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>IN RWANDA'S HISTORY.</p>
+   <p region='pop1' style='basic' begin='00:41:22:29' end='00:41:28:23' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[PURRING]</p>
+   <p region='pop1' style='basic' begin='00:41:30:05' end='00:41:32:17' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>NOT FAR FROM SHEMA'S NURSERY,</p>
+   <p region='pop1' style='basic' begin='00:41:32:19' end='00:41:36:10' tts:origin='22.5% 79.33%' tts:extent='52.5% 5.33%'>THE REST OF THE LIONS</p>
+   <p region='pop2' style='basic' begin='00:41:32:19' end='00:41:36:10' tts:origin='12.5% 84.66%' tts:extent='75% 5.33%'>ARE SET FOR THEIR OWN VICTORY.</p>
+   <p region='pop1' style='basic' begin='00:41:36:12' end='00:41:45:19' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:41:45:21' end='00:41:48:17' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>HUNGER HAS SPED UP</p>
+   <p region='pop2' style='basic' begin='00:41:45:21' end='00:41:48:17' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>THEIR LEARNING CURVE...</p>
+   <p region='pop1' style='basic' begin='00:41:48:19' end='00:41:51:09' tts:origin='15% 79.33%' tts:extent='67.5% 5.33%'>AND THEY'RE FINALLY WORKING</p>
+   <p region='pop2' style='basic' begin='00:41:48:19' end='00:41:51:09' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>AS A UNIT.</p>
+   <p region='pop1' style='basic' begin='00:41:51:11' end='00:41:59:09' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:41:59:11' end='00:42:01:24' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>THE IMPALA ARE STILL</p>
+   <p region='pop2' style='basic' begin='00:41:59:11' end='00:42:01:24' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>LARGELY IGNORANT</p>
+   <p region='pop1' style='basic' begin='00:42:01:26' end='00:42:04:18' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>OF THE PREDATORS IN THEIR MIDST.</p>
+   <p region='pop1' style='basic' begin='00:42:04:20' end='00:42:08:04' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>THEY HAVEN'T LEARNED MUCH</p>
+   <p region='pop2' style='basic' begin='00:42:04:20' end='00:42:08:04' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>FROM THEIR MISTAKES.</p>
+   <p region='pop1' style='basic' begin='00:42:08:06' end='00:42:12:11' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>THE FLEDGLING PRIDE</p>
+   <p region='pop2' style='basic' begin='00:42:08:06' end='00:42:12:11' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>HAS THEM SURROUNDED.</p>
+   <p region='pop1' style='basic' begin='00:42:12:13' end='00:42:16:11' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>KAZI IS AN EXPERT WING.</p>
+   <p region='pop1' style='basic' begin='00:42:16:13' end='00:42:19:04' tts:origin='35% 79.33%' tts:extent='30% 5.33%'>SHE COMES IN</p>
+   <p region='pop2' style='basic' begin='00:42:16:13' end='00:42:19:04' tts:origin='25% 84.66%' tts:extent='50% 5.33%'>FROM THE BLIND SIDE.</p>
+   <p region='pop1' style='basic' begin='00:42:19:06' end='00:42:22:06' tts:origin='27.5% 79.33%' tts:extent='42.5% 5.33%'>THE BROTHERS TAKE</p>
+   <p region='pop2' style='basic' begin='00:42:19:06' end='00:42:22:06' tts:origin='25% 84.66%' tts:extent='47.5% 5.33%'>THE OPPOSITE FLANK.</p>
+   <p region='pop1' style='basic' begin='00:42:22:08' end='00:42:27:19' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:42:27:21' end='00:42:31:09' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[GROANING]</p>
+   <p region='pop1' style='basic' begin='00:42:35:18' end='00:42:41:00' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>THE IMPALA NEVER STOOD A CHANCE.</p>
+   <p region='pop1' style='basic' begin='00:42:41:02' end='00:42:44:12' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>TEAMWORK INCREASES</p>
+   <p region='pop2' style='basic' begin='00:42:41:02' end='00:42:44:12' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>THE SUCCESS RATE.</p>
+   <p region='pop1' style='basic' begin='00:42:46:22' end='00:42:47:29' tts:origin='37.5% 84.66%' tts:extent='25% 5.33%'>[SNORTING]</p>
+   <p region='pop1' style='basic' begin='00:42:48:01' end='00:42:52:12' tts:origin='20% 79.33%' tts:extent='60% 5.33%'>WHEN THERE'S A STRATEGY,</p>
+   <p region='pop2' style='basic' begin='00:42:48:01' end='00:42:52:12' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>EVEN AN AMATEUR CAN MAKE A KILL.</p>
+   <p region='pop1' style='basic' begin='00:42:52:14' end='00:43:01:09' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:43:01:11' end='00:43:11:04' tts:origin='37.5% 84.66%' tts:extent='22.5% 5.33%'>[WAILING]</p>
+   <p region='pop1' style='basic' begin='00:43:11:06' end='00:43:14:15' tts:origin='30% 79.33%' tts:extent='40% 5.33%'>BINTI TAKES DOWN</p>
+   <p region='pop2' style='basic' begin='00:43:11:06' end='00:43:14:15' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>A YOUNG WATERBUCK.</p>
+   <p region='pop1' style='basic' begin='00:43:19:07' end='00:43:22:23' tts:origin='17.5% 84.66%' tts:extent='62.5% 5.33%'>IT'S HER FIRST SOLO KILL.</p>
+   <p region='pop1' style='basic' begin='00:43:22:25' end='00:43:27:13' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>UNDER KAZI'S GUIDANCE,</p>
+   <p region='pop2' style='basic' begin='00:43:22:25' end='00:43:27:13' tts:origin='17.5% 84.66%' tts:extent='65% 5.33%'>SHE'S FINALLY COME OF AGE.</p>
+   <p region='pop1' style='basic' begin='00:43:27:15' end='00:43:30:21' tts:origin='30% 79.33%' tts:extent='37.5% 5.33%'>BUT SHE'S STILL</p>
+   <p region='pop2' style='basic' begin='00:43:27:15' end='00:43:30:21' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>THE LOWEST RANKING FEMALE...</p>
+   <p region='pop1' style='basic' begin='00:43:30:23' end='00:43:34:20' tts:origin='10% 84.66%' tts:extent='80% 5.33%'>AND HER GLORY DOESN'T LAST LONG.</p>
+   <p region='pop1' style='basic' begin='00:43:34:22' end='00:43:37:23' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>THE MALES LAY CLAIM</p>
+   <p region='pop2' style='basic' begin='00:43:34:22' end='00:43:37:23' tts:origin='32.5% 84.66%' tts:extent='32.5% 5.33%'>TO HER PRIZE.</p>
+   <p region='pop1' style='basic' begin='00:43:40:07' end='00:43:43:12' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>THE LEADERS ALWAYS EAT FIRST.</p>
+   <p region='pop1' style='basic' begin='00:43:43:14' end='00:43:45:20' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>THIS IS LION LAW.</p>
+   <p region='pop1' style='basic' begin='00:43:45:22' end='00:43:50:05' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[GRUMBLING]</p>
+   <p region='pop1' style='basic' begin='00:43:50:07' end='00:43:51:23' tts:origin='40% 84.66%' tts:extent='20% 5.33%'>[GROWLS]</p>
+   <p region='pop1' style='basic' begin='00:43:51:25' end='00:43:54:27' tts:origin='12.5% 79.33%' tts:extent='75% 5.33%'>TO THEM, THE LAST DYING BLEATS</p>
+   <p region='pop2' style='basic' begin='00:43:51:25' end='00:43:54:27' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>OF THE WATERBUCK</p>
+   <p region='pop1' style='basic' begin='00:43:54:29' end='00:43:57:29' tts:origin='30% 79.33%' tts:extent='40% 5.33%'>ARE NOTHING MORE</p>
+   <p region='pop2' style='basic' begin='00:43:54:29' end='00:43:57:29' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>THAN THE DINNER BELL.</p>
+   <p region='pop1' style='basic' begin='00:44:02:13' end='00:44:06:29' tts:origin='25% 79.33%' tts:extent='50% 5.33%'>THE LIONS' INSTINCTS</p>
+   <p region='pop2' style='basic' begin='00:44:02:13' end='00:44:06:29' tts:origin='30% 84.66%' tts:extent='40% 5.33%'>ARE TAKING OVER.</p>
+   <p region='pop1' style='basic' begin='00:44:07:01' end='00:44:10:08' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>THE FEMALES ARE HUNTING</p>
+   <p region='pop2' style='basic' begin='00:44:07:01' end='00:44:10:08' tts:origin='32.5% 84.66%' tts:extent='32.5% 5.33%'>SUCCESSFULLY.</p>
+   <p region='pop1' style='basic' begin='00:44:10:10' end='00:44:12:16' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>THE MALES HAVE STEPPED UP</p>
+   <p region='pop2' style='basic' begin='00:44:10:10' end='00:44:12:16' tts:origin='32.5% 84.66%' tts:extent='32.5% 5.33%'>TO THE PLATE,</p>
+   <p region='pop1' style='basic' begin='00:44:12:18' end='00:44:16:21' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>ESTABLISHED A HIERARCHY</p>
+   <p region='pop2' style='basic' begin='00:44:12:18' end='00:44:16:21' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>AND PRODUCED CUBS.</p>
+   <p region='pop1' style='basic' begin='00:44:16:23' end='00:44:20:01' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:44:20:03' end='00:44:23:25' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>THEY ARE A PRIDE...AT LAST!</p>
+   <p region='pop1' style='basic' begin='00:44:23:27' end='00:44:34:11' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:44:34:13' end='00:44:41:26' tts:origin='17.5% 79.33%' tts:extent='62.5% 5.33%'>ONE YEAR AGO, SEVEN LIONS</p>
+   <p region='pop2' style='basic' begin='00:44:34:13' end='00:44:41:26' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>ARRIVED IN RWANDA.</p>
+   <p region='pop1' style='basic' begin='00:44:41:28' end='00:44:44:11' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>STRANGERS TO EACH OTHER,</p>
+   <p region='pop1' style='basic' begin='00:44:44:13' end='00:44:47:27' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>THEY WEATHERED THE STORMS...</p>
+   <p region='pop1' style='basic' begin='00:44:47:29' end='00:44:49:28' tts:origin='20% 84.66%' tts:extent='57.5% 5.33%'>FORGED RELATIONSHIPS...</p>
+   <p region='pop1' style='basic' begin='00:44:50:00' end='00:44:54:04' tts:origin='30% 84.66%' tts:extent='37.5% 5.33%'>AND SIRED CUBS.</p>
+   <p region='pop1' style='basic' begin='00:44:54:06' end='00:44:58:01' tts:origin='35% 79.33%' tts:extent='27.5% 5.33%'>A YEAR AGO,</p>
+   <p region='pop2' style='basic' begin='00:44:54:06' end='00:44:58:01' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>THIS EDEN WAS INCOMPLETE...</p>
+   <p region='pop1' style='basic' begin='00:44:58:03' end='00:45:03:29' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>MISSING A CRUCIAL LINK</p>
+   <p region='pop2' style='basic' begin='00:44:58:03' end='00:45:03:29' tts:origin='15% 84.66%' tts:extent='70% 5.33%'>IN ITS DELICATE ECOSYSTEM...</p>
+   <p region='pop1' style='basic' begin='00:45:04:01' end='00:45:10:00' tts:origin='10% 79.33%' tts:extent='80% 5.33%'>ITS MOST ICONIC SPECIES EXTINCT,</p>
+   <p region='pop2' style='basic' begin='00:45:04:01' end='00:45:10:00' tts:origin='27.5% 84.66%' tts:extent='42.5% 5.33%'>ALMOST FORGOTTEN.</p>
+   <p region='pop1' style='basic' begin='00:45:11:13' end='00:45:13:22' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>AND THEN THEY ARRIVED...</p>
+   <p region='pop1' style='basic' begin='00:45:13:24' end='00:45:18:00' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>A RAGTAG BUNCH MADE UP</p>
+   <p region='pop2' style='basic' begin='00:45:13:24' end='00:45:18:00' tts:origin='22.5% 84.66%' tts:extent='55% 5.33%'>OF MISFITS AND LONERS.</p>
+   <p region='pop1' style='basic' begin='00:45:20:17' end='00:45:23:16' tts:origin='27.5% 79.33%' tts:extent='45% 5.33%'>OUT OF THEIR DEPTH</p>
+   <p region='pop2' style='basic' begin='00:45:20:17' end='00:45:23:16' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>AND LOST IN THE WILDERNESS,</p>
+   <p region='pop1' style='basic' begin='00:45:23:18' end='00:45:27:16' tts:origin='12.5% 79.33%' tts:extent='72.5% 5.33%'>THEY ROSE TO THEIR CHALLENGES</p>
+   <p region='pop2' style='basic' begin='00:45:23:18' end='00:45:27:16' tts:origin='12.5% 84.66%' tts:extent='77.5% 5.33%'>AND MASTERED THEIR NEW KINGDOM.</p>
+   <p region='pop1' style='basic' begin='00:45:27:18' end='00:45:30:19' tts:origin='35% 84.66%' tts:extent='27.5% 5.33%'>[SCREAMING]</p>
+   <p region='pop1' style='basic' begin='00:45:30:21' end='00:45:33:15' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:45:33:17' end='00:45:36:20' tts:origin='20% 84.66%' tts:extent='60% 5.33%'>THESE MAGNIFICENT SEVEN,</p>
+   <p region='pop1' style='basic' begin='00:45:36:22' end='00:45:41:21' tts:origin='25% 79.33%' tts:extent='47.5% 5.33%'>SYMBOLS OF BALANCE,</p>
+   <p region='pop2' style='basic' begin='00:45:36:22' end='00:45:41:21' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>POWER AND COURAGE,</p>
+   <p region='pop1' style='basic' begin='00:45:41:23' end='00:45:47:07' tts:origin='32.5% 79.33%' tts:extent='35% 5.33%'>HAVE COMPLETED</p>
+   <p region='pop2' style='basic' begin='00:45:41:23' end='00:45:47:07' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>THE CIRCLE OF LIFE...</p>
+   <p region='pop1' style='basic' begin='00:45:47:09' end='00:45:51:04' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>AND RESTORED THE PRIDE</p>
+   <p region='pop2' style='basic' begin='00:45:47:09' end='00:45:51:04' tts:origin='35% 84.66%' tts:extent='30% 5.33%'>OF A NATION.</p>
+   <p region='pop1' style='basic' begin='00:45:51:06' end='00:45:53:21' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+   <p region='pop1' style='basic' begin='00:45:54:29' end='00:45:59:09' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
+  </div>
+ </body>
+</tt>
