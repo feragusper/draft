@@ -17,7 +17,7 @@
    />
   </metadata>
   <styling>
-   <style xml:id='basic' tts:color='white' tts:backgroundColor='black' tts:fontFamily='monospace' tts:fontSize='80%' tts:textAlign='center'/>
+   <style xml:id='basic' tts:color='white' tts:backgroundColor='black' tts:fontFamily='monospace' tts:fontSize='80%'/>
   </styling>
   <layout>
    <region xml:id='pop1' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
@@ -35,11 +35,11 @@
  </head>
  <body>
   <div>
-   <p region='pop1' style='basic' begin='00:00:00:19' end='00:00:03:01' tts:origin='47.5% 84.66%' tts:extent='2.5% 5.33%'>♪</p>
-   <p region='pop1' style='basic' begin='00:00:03:03' end='00:00:08:27' tts:origin='20% 79.33%' tts:extent='57.5% 5.33%'>IN THE HEART OF AFRICA,</p>
-   <p region='pop2' style='basic' begin='00:00:03:03' end='00:00:08:27' tts:origin='22.5% 84.66%' tts:extent='52.5% 5.33%'>A NEW ERA IS DAWNING.</p>
-   <p region='pop1' style='basic' begin='00:00:08:29' end='00:00:14:00' tts:origin='10% 79.33%' tts:extent='77.5% 5.33%'>RWANDA IS ABOUT TO WELCOME HOME</p>
-   <p region='pop2' style='basic' begin='00:00:08:29' end='00:00:14:00' tts:origin='27.5% 84.66%' tts:extent='45% 5.33%'>LONG-LOST ROYALTY.</p>
+   <p region='pop1' style='basic' begin='00:00:00:19' end='00:00:03:01'>♪</p>
+   <p region='pop1' style='basic' begin='00:00:03:03' end='00:00:08:27'>IN THE HEART OF AFRICA,</p>
+   <p region='pop2' style='basic' begin='00:00:03:03' end='00:00:08:27'>A NEW ERA IS DAWNING.</p>
+   <p region='pop1' style='basic' begin='00:00:08:29' end='00:00:14:00'>RWANDA IS ABOUT TO WELCOME HOME</p>
+   <p region='pop2' style='basic' begin='00:00:08:29' end='00:00:14:00'>LONG-LOST ROYALTY.</p>
    <p region='pop1' style='basic' begin='00:00:15:19' end='00:00:18:28' tts:origin='22.5% 79.33%' tts:extent='55% 5.33%'>THIS IDYLLIC LANDSCAPE</p>
    <p region='pop2' style='basic' begin='00:00:15:19' end='00:00:18:28' tts:origin='15% 84.66%' tts:extent='67.5% 5.33%'>WAS ONCE THE HUNTING GROUND</p>
    <p region='pop1' style='basic' begin='00:00:19:00' end='00:00:22:16' tts:origin='12.5% 84.66%' tts:extent='72.5% 5.33%'>FOR MIGHTY PRIDES OF LIONS...</p>
