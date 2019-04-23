@@ -17,7 +17,7 @@
    />
   </metadata>
   <styling>
-   <style xml:id='basic' tts:color='white' tts:backgroundColor='black' tts:fontFamily='monospace' tts:fontSize='80%'/>
+   <style xml:id='basic' tts:color='white' tts:backgroundColor='black' tts:fontFamily='monospace' tts:fontSize='80%' tts:textAlign='center'/>
   </styling>
   <layout>
    <region xml:id='pop1' tts:backgroundColor='transparent' tts:showBackground='whenActive'></region>
