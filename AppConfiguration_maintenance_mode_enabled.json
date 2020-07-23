@@ -1,0 +1,69 @@
+
+{
+  "configuration": {
+    "tvos": {
+      "house_of_brands_enabled": false,
+      "maintenance_status": {
+        "maintenance_mode_enabled": true,
+        "alert_title": "We'll be back soon!",
+        "alert_message": "We are performing system maintenance. Please try again later."
+      }
+    },
+    "ios": {
+      "house_of_brands_enabled": false,
+      "maintenance_status": {
+        "maintenance_mode_enabled": true,
+        "alert_title": "We'll be back soon!",
+        "alert_message": "We are performing system maintenance. Please try again later."
+      }
+    },
+    "roku": {
+      "house_of_brands_enabled": false,
+      "maintenance_status": {
+        "maintenance_mode_enabled": true,
+        "alert_title": "We'll be back soon!",
+        "alert_message": "We are performing system maintenance. Please try again later."
+      }
+    },
+    "android": {
+      "house_of_brands_enabled": false,
+      "maintenance_status": {
+        "maintenance_mode_enabled": true,
+        "alert_title": "We'll be back soon!",
+        "alert_message": "We are performing system maintenance. Please try again later."
+      }
+    },
+    "androidtv": {
+      "house_of_brands_enabled": false,
+      "maintenance_status": {
+        "maintenance_mode_enabled": true,
+        "alert_title": "We'll be back soon!",
+        "alert_message": "We are performing system maintenance. Please try again later."
+      }
+    },
+    "fire": {
+      "house_of_brands_enabled": false,
+      "maintenance_status": {
+        "maintenance_mode_enabled": true,
+        "alert_title": "We'll be back soon!",
+        "alert_message": "We are performing system maintenance. Please try again later."
+      }
+    },
+    "firetv": {
+      "house_of_brands_enabled": false,
+      "maintenance_status": {
+        "maintenance_mode_enabled": true,
+        "alert_title": "We'll be back soon!",
+        "alert_message": "We are performing system maintenance. Please try again later."
+      }
+    },
+    "tizen": {
+      "house_of_brands_enabled": false,
+      "maintenance_status": {
+        "maintenance_mode_enabled": true,
+        "alert_title": "We'll be back soon!",
+        "alert_message": "We are performing system maintenance. Please try again later."
+      }
+    }
+  }
+}
