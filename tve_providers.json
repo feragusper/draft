@@ -3,10 +3,6 @@
     "android": {
       "TVEProviders": [
         {
-          "id": "AlticeOne",
-          "displayName": "Altice One"
-        },
-        {
           "id": "www_websso_mybrctv_com",
           "displayName": "Blue Ridge"
         },
