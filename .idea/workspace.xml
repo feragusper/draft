@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tve_providers.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers.json" afterDir="false" />
-    </list>
+    <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620224484104</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" - androidtv platform added to tve_providers.json">
+      <created>1620235181840</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620235181840</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" - androidtv platform added to tve_providers.json">
+      <created>1620235211426</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620235211426</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,13 +149,14 @@
     <MESSAGE value=" - New image properties added to TVE json." />
     <MESSAGE value=" - Altice One TVE Provider re-added.&#10; - Charter Spectrum removed.&#10; - Logos for Blue Ridge removed." />
     <MESSAGE value=" - Logos for Cox removed." />
-    <option name="LAST_COMMIT_MESSAGE" value=" - Logos for Cox removed." />
+    <MESSAGE value=" - androidtv platform added to tve_providers.json" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - androidtv platform added to tve_providers.json" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="339" y="55" key="CommitChangelistDialog2" timestamp="1620224483925">
+    <state x="339" y="55" key="CommitChangelistDialog2" timestamp="1620235211296">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="339" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620224483925" />
+    <state x="339" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620235211296" />
     <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1620224468499">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -153,10 +165,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1620223060310" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620224485132">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620235212618">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620224485132" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620235212618" />
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620219928798">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

@@ -123,7 +123,7 @@
       ]
     },
     "androidtv": {
-      "TVEActivationText" : "sc.tv/activate",
+      "TVEActivationText" : "sc.tv/activate/modified",
       "TVEProviders": [
         {
           "id": "AlticeOne",
