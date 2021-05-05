@@ -1,90 +1,92 @@
 {
-  "TVEProviders": [
-    {
-      "id": "AlticeOne",
-      "displayName": "Altice One"
-    },
-    {
-      "id": "www_websso_mybrctv_com",
-      "displayName": "Blue Ridge"
-    },
-    {
-      "id": "Charter_Direct",
-      "displayName": "Charter Spectrum"
-    },
-    {
-      "id": "Cox",
-      "displayName": "Cox"
-    },
-    {
-      "id": "DTV",
-      "displayName": "DTV"
-    },
-    {
-      "id": "Dish",
-      "displayName": "Dish"
-    },
-    {
-      "id": "epb_auth-gateway_net",
-      "displayName": "EPB"
-    },
-    {
-      "id": "frontier_auth-gateway_net",
-      "displayName": "Frontier"
-    },
-    {
-      "id": "Fubo",
-      "displayName": "Fubo"
-    },
-    {
-      "id": "Grande",
-      "displayName": "Grande"
-    },
-    {
-      "id": "Hawaian",
-      "displayName": "auth_hawaiiantel_net"
-    },
-    {
-      "id": "Hulu",
-      "displayName": "Hulu"
-    },
-    {
-      "id": "Mediacom",
-      "displayName": "Mediacom"
-    },
-    {
-      "id": "Cablevision",
-      "displayName": "Cablevision"
-    },
-    {
-      "id": "RCN",
-      "displayName": "RCN"
-    },
-    {
-      "id": "layer3tv_auth-gateway_net",
-      "displayName": "T-Mobile"
-    },
-    {
-      "id": "Verizon",
-      "displayName": "Verizon"
-    },
-    {
-      "id": "Wave",
-      "displayName": "wavebroadband"
-    },
-    {
-      "id": "Comcast_SSO",
-      "displayName": "Comcast"
-      "siteUrl": "https://xfinity.com/stream",
-      "authorizationSiteUrl": "https://customer.xfinity.com/Secure/OnlineParentalControls.aspx"
-    },
-    {
-      "id": "YouTubeTV",
-      "displayName": "YouTubeTV"
-    },
-    {
-      "id": "ziplyfiber_auth-gateway_net",
-      "displayName": "Ziplyfiber"
-    }
-  ]
+  "android": {
+    "TVEProviders": [
+      {
+        "id": "AlticeOne",
+        "displayName": "Altice One"
+      },
+      {
+        "id": "www_websso_mybrctv_com",
+        "displayName": "Blue Ridge"
+      },
+      {
+        "id": "Charter_Direct",
+        "displayName": "Charter Spectrum"
+      },
+      {
+        "id": "Cox",
+        "displayName": "Cox"
+      },
+      {
+        "id": "DTV",
+        "displayName": "DTV"
+      },
+      {
+        "id": "Dish",
+        "displayName": "Dish"
+      },
+      {
+        "id": "epb_auth-gateway_net",
+        "displayName": "EPB"
+      },
+      {
+        "id": "frontier_auth-gateway_net",
+        "displayName": "Frontier"
+      },
+      {
+        "id": "Fubo",
+        "displayName": "Fubo"
+      },
+      {
+        "id": "Grande",
+        "displayName": "Grande"
+      },
+      {
+        "id": "Hawaian",
+        "displayName": "auth_hawaiiantel_net"
+      },
+      {
+        "id": "Hulu",
+        "displayName": "Hulu"
+      },
+      {
+        "id": "Mediacom",
+        "displayName": "Mediacom"
+      },
+      {
+        "id": "Cablevision",
+        "displayName": "Cablevision"
+      },
+      {
+        "id": "RCN",
+        "displayName": "RCN"
+      },
+      {
+        "id": "layer3tv_auth-gateway_net",
+        "displayName": "T-Mobile"
+      },
+      {
+        "id": "Verizon",
+        "displayName": "Verizon"
+      },
+      {
+        "id": "Wave",
+        "displayName": "wavebroadband"
+      },
+      {
+        "id": "Comcast_SSO",
+        "displayName": "Comcast",
+        "siteUrl": "https://xfinity.com/stream",
+        "authorizationSiteUrl": "https://customer.xfinity.com/Secure/OnlineParentalControls.aspx"
+      },
+      {
+        "id": "YouTubeTV",
+        "displayName": "YouTubeTV"
+      },
+      {
+        "id": "ziplyfiber_auth-gateway_net",
+        "displayName": "Ziplyfiber"
+      }
+    ]
+  }
 }
