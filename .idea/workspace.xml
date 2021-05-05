@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tve_providers.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers.json" afterDir="false" />
-    </list>
+    <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,28 +75,36 @@
       <option name="project" value="LOCAL" />
       <updated>1620222812979</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" - New image properties added to TVE json.">
+      <created>1620223450432</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620223450432</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" - little change in tve_providers.json" />
     <MESSAGE value=" - testing removal of a TVE Provider" />
     <MESSAGE value=" - TVE logos pngs added." />
-    <option name="LAST_COMMIT_MESSAGE" value=" - TVE logos pngs added." />
+    <MESSAGE value=" - New image properties added to TVE json." />
+    <option name="LAST_COMMIT_MESSAGE" value=" - New image properties added to TVE json." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="339" y="57" key="CommitChangelistDialog2" timestamp="1620222812821">
+    <state x="339" y="57" key="CommitChangelistDialog2" timestamp="1620223450262">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="339" y="57" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620222812821" />
+    <state x="339" y="57" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620223450262" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1620223060310">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1620223060310" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620222814171">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620223451469">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620222814171" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620223451469" />
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620219928798">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
