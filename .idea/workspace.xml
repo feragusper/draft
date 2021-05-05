@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/draft.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,21 +44,47 @@
       <option name="project" value="LOCAL" />
       <updated>1620216439904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" - little change in tve_providers.json">
+      <created>1620218985867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620218985867</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" - little change in tve_providers.json">
+      <created>1620219000495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620219000495</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" - testing removal of a TVE Provider">
+      <created>1620219940713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620219940713</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" - little change in tve_providers.json" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - little change in tve_providers.json" />
+    <MESSAGE value=" - testing removal of a TVE Provider" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - testing removal of a TVE Provider" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="339" y="57" key="CommitChangelistDialog2" timestamp="1620216439723">
+    <state x="339" y="57" key="CommitChangelistDialog2" timestamp="1620219940555">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="339" y="57" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620216439723" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620216441141">
+    <state x="339" y="57" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620219940555" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620219942458">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620216441141" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620219942458" />
+    <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620219928798">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1620219928798" />
   </component>
 </project>
