@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="" />
+    <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tve_providers.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,32 +103,71 @@
       <option name="project" value="LOCAL" />
       <updated>1620223450432</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" - Altice One TVE Provider re-added.&#10; - Charter Spectrum removed.&#10; - Logos for Blue Ridge removed.">
+      <created>1620224339054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620224339054</updated>
+    </task>
+    <task id="LOCAL-00008" summary=" - Logos for Cox removed.">
+      <created>1620224484104</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620224484104</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" - little change in tve_providers.json" />
     <MESSAGE value=" - testing removal of a TVE Provider" />
     <MESSAGE value=" - TVE logos pngs added." />
     <MESSAGE value=" - New image properties added to TVE json." />
-    <option name="LAST_COMMIT_MESSAGE" value=" - New image properties added to TVE json." />
+    <MESSAGE value=" - Altice One TVE Provider re-added.&#10; - Charter Spectrum removed.&#10; - Logos for Blue Ridge removed." />
+    <MESSAGE value=" - Logos for Cox removed." />
+    <option name="LAST_COMMIT_MESSAGE" value=" - Logos for Cox removed." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="339" y="57" key="CommitChangelistDialog2" timestamp="1620223450262">
+    <state x="339" y="55" key="CommitChangelistDialog2" timestamp="1620224483925">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="339" y="57" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620223450262" />
+    <state x="339" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620224483925" />
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1620224468499">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1620224468499" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1620223060310">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1620223060310" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620223451469">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620224485132">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620223451469" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620224485132" />
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620219928798">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1620219928798" />
+    <state x="412" y="216" width="615" height="490" key="find.popup" timestamp="1620233518511">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="412" y="216" width="615" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1620233518511" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1620233894475">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1620233894475" />
   </component>
 </project>
