@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="" />
+    <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tve_providers_altice_one_image_removed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tve_providers_altice_one_is_cincinnati.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tve_providers_altice_one_is_hawaiian.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tve_providers_altice_one_provider_removed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tve_providers_modified_activation_text.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tve_providers.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers_all.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,10 +47,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tveLogos" />
     </key>
@@ -128,8 +140,25 @@
       <option name="project" value="LOCAL" />
       <updated>1620235211426</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=" - TVEActivationText value modified to check if works">
+      <created>1620235517804</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620235517804</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -141,6 +170,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" - little change in tve_providers.json" />
@@ -150,13 +180,14 @@
     <MESSAGE value=" - Altice One TVE Provider re-added.&#10; - Charter Spectrum removed.&#10; - Logos for Blue Ridge removed." />
     <MESSAGE value=" - Logos for Cox removed." />
     <MESSAGE value=" - androidtv platform added to tve_providers.json" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - androidtv platform added to tve_providers.json" />
+    <MESSAGE value=" - TVEActivationText value modified to check if works" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - TVEActivationText value modified to check if works" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="339" y="55" key="CommitChangelistDialog2" timestamp="1620235211296">
+    <state x="339" y="55" key="CommitChangelistDialog2" timestamp="1620235517690">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="339" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620235211296" />
+    <state x="339" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620235517690" />
     <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1620224468499">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -165,21 +196,21 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1620223060310" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620235212618">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620235518774">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620235212618" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620235518774" />
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620219928798">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1620219928798" />
-    <state x="412" y="216" width="615" height="490" key="find.popup" timestamp="1620233518511">
+    <state x="412" y="216" width="615" height="490" key="find.popup" timestamp="1620331584283">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="412" y="216" width="615" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1620233518511" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1620233894475">
+    <state x="412" y="216" width="615" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1620331584283" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1620328463008">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1620233894475" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1620328463008" />
   </component>
 </project>

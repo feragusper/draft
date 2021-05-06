@@ -4,17 +4,27 @@
       "TVEProviders": [
         {
           "id": "AlticeOne",
-          "displayName": "Altice One",
-          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_alticeone.png",
-          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_alticeone_white.png"
+          "displayName": "Hawaiian Telcom",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
         },
         {
           "id": "www_websso_mybrctv_com",
-          "displayName": "Blue Ridge"
+          "displayName": "Blue Ridge",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge_white.png"
+        },
+        {
+          "id": "Charter_Direct",
+          "displayName": "Charter Spectrum",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_charterspectrum.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_charterspectrum_white.png"
         },
         {
           "id": "Cox",
-          "displayName": "Cox"
+          "displayName": "Cox",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_cox.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_cox_white.png"
         },
         {
           "id": "DTV",
@@ -53,10 +63,16 @@
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_grande_white.png"
         },
         {
-          "id": "Hawaian",
-          "displayName": "auth_hawaiiantel_net",
+          "id": "auth_hawaiiantel_net",
+          "displayName": "Hawaian",
           "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
+        },
+        {
+          "id": "cincibell_auth-gateway_net",
+          "displayName": "Cincinnati Bell Fioptics",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_bellinfinity.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_bellinfinity_white.png"
         },
         {
           "id": "Hulu",
@@ -95,8 +111,8 @@
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_verizonfios_white.png"
         },
         {
-          "id": "Wave",
-          "displayName": "wavebroadband",
+          "id": "wavebroadband",
+          "displayName": "Wave",
           "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_wave.png",
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_wave_white.png"
         },
@@ -123,21 +139,31 @@
       ]
     },
     "androidtv": {
-      "TVEActivationText" : "sc.tv/activate/modified",
+      "TVEActivationText": "sc.tv/activate",
       "TVEProviders": [
         {
           "id": "AlticeOne",
           "displayName": "Altice One",
-          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_alticeone.png",
-          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_alticeone_white.png"
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
         },
         {
           "id": "www_websso_mybrctv_com",
-          "displayName": "Blue Ridge"
+          "displayName": "Blue Ridge",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge_white.png"
+        },
+        {
+          "id": "Charter_Direct",
+          "displayName": "Charter Spectrum",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_charterspectrum.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_charterspectrum_white.png"
         },
         {
           "id": "Cox",
-          "displayName": "Cox"
+          "displayName": "Cox",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_cox.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_cox_white.png"
         },
         {
           "id": "DTV",
@@ -176,10 +202,16 @@
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_grande_white.png"
         },
         {
-          "id": "Hawaian",
-          "displayName": "auth_hawaiiantel_net",
+          "id": "auth_hawaiiantel_net",
+          "displayName": "Hawaian",
           "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
+        },
+        {
+          "id": "cincibell_auth-gateway_net",
+          "displayName": "Cincinnati Bell Fioptics",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_bellinfinity.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_bellinfinity_white.png"
         },
         {
           "id": "Hulu",
@@ -218,8 +250,8 @@
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_verizonfios_white.png"
         },
         {
-          "id": "Wave",
-          "displayName": "wavebroadband",
+          "id": "wavebroadband",
+          "displayName": "Wave",
           "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_wave.png",
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_wave_white.png"
         },

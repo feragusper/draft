@@ -1,0 +1,277 @@
+{
+  "configuration": {
+    "android": {
+      "TVEProviders": [
+        {
+          "id": "AlticeOne",
+          "displayName": "Altice One"
+        },
+        {
+          "id": "www_websso_mybrctv_com",
+          "displayName": "Blue Ridge",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge_white.png"
+        },
+        {
+          "id": "Charter_Direct",
+          "displayName": "Charter Spectrum",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_charterspectrum.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_charterspectrum_white.png"
+        },
+        {
+          "id": "Cox",
+          "displayName": "Cox",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_cox.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_cox_white.png"
+        },
+        {
+          "id": "DTV",
+          "displayName": "DTV",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_directtv.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_directtv_white.png"
+        },
+        {
+          "id": "Dish",
+          "displayName": "Dish",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_dish.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_dish_white.png"
+        },
+        {
+          "id": "epb_auth-gateway_net",
+          "displayName": "EPB",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_epb.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_epb_white.png"
+        },
+        {
+          "id": "frontier_auth-gateway_net",
+          "displayName": "Frontier",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_frontier.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_frontier_white.png"
+        },
+        {
+          "id": "Fubo",
+          "displayName": "Fubo",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_fubo.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_fubo_white.png"
+        },
+        {
+          "id": "Grande",
+          "displayName": "Grande",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_grande.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_grande_white.png"
+        },
+        {
+          "id": "auth_hawaiiantel_net",
+          "displayName": "Hawaiian Telcom",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
+        },
+        {
+          "id": "cincibell_auth-gateway_net",
+          "displayName": "Cincinnati Bell Fioptics",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_bellinfinity.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_bellinfinity_white.png"
+        },
+        {
+          "id": "Hulu",
+          "displayName": "Hulu",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hulu.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hulu_white.png"
+        },
+        {
+          "id": "Mediacom",
+          "displayName": "Mediacom",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge_white.png"
+        },
+        {
+          "id": "Cablevision",
+          "displayName": "Cablevision",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_mediacom.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_mediacom_white.png"
+        },
+        {
+          "id": "RCN",
+          "displayName": "RCN",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_rcn.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_rcn_white.png"
+        },
+        {
+          "id": "layer3tv_auth-gateway_net",
+          "displayName": "T-Mobile",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_tmobile.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_tmobile_white.png"
+        },
+        {
+          "id": "Verizon",
+          "displayName": "Verizon",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_verizonfios.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_verizonfios_white.png"
+        },
+        {
+          "id": "wavebroadband",
+          "displayName": "Wave",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_wave.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_wave_white.png"
+        },
+        {
+          "id": "Comcast_SSO",
+          "displayName": "Comcast",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_xfinity.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_xfinity_white.png",
+          "siteUrl": "https://xfinity.com/stream",
+          "authorizationSiteUrl": "https://customer.xfinity.com/Secure/OnlineParentalControls.aspx"
+        },
+        {
+          "id": "YouTubeTV",
+          "displayName": "YouTubeTV",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_youtubetv.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_youtubetv_white.png"
+        },
+        {
+          "id": "ziplyfiber_auth-gateway_net",
+          "displayName": "Ziplyfiber",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_ziplyfiber.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_ziplyfiber_white.png"
+        }
+      ]
+    },
+    "androidtv": {
+      "TVEActivationText": "sc.tv/activate",
+      "TVEProviders": [
+        {
+          "id": "AlticeOne",
+          "displayName": "Altice One"
+        },
+        {
+          "id": "www_websso_mybrctv_com",
+          "displayName": "Blue Ridge",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge_white.png"
+        },
+        {
+          "id": "Charter_Direct",
+          "displayName": "Charter Spectrum",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_charterspectrum.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_charterspectrum_white.png"
+        },
+        {
+          "id": "Cox",
+          "displayName": "Cox",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_cox.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_cox_white.png"
+        },
+        {
+          "id": "DTV",
+          "displayName": "DTV",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_directtv.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_directtv_white.png"
+        },
+        {
+          "id": "Dish",
+          "displayName": "Dish",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_dish.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_dish_white.png"
+        },
+        {
+          "id": "epb_auth-gateway_net",
+          "displayName": "EPB",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_epb.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_epb_white.png"
+        },
+        {
+          "id": "frontier_auth-gateway_net",
+          "displayName": "Frontier",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_frontier.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_frontier_white.png"
+        },
+        {
+          "id": "Fubo",
+          "displayName": "Fubo",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_fubo.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_fubo_white.png"
+        },
+        {
+          "id": "Grande",
+          "displayName": "Grande",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_grande.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_grande_white.png"
+        },
+        {
+          "id": "auth_hawaiiantel_net",
+          "displayName": "Hawaian",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
+        },
+        {
+          "id": "cincibell_auth-gateway_net",
+          "displayName": "Cincinnati Bell Fioptics",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_bellinfinity.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_bellinfinity_white.png"
+        },
+        {
+          "id": "Hulu",
+          "displayName": "Hulu",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hulu.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hulu_white.png"
+        },
+        {
+          "id": "Mediacom",
+          "displayName": "Mediacom",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge_white.png"
+        },
+        {
+          "id": "Cablevision",
+          "displayName": "Cablevision",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_mediacom.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_mediacom_white.png"
+        },
+        {
+          "id": "RCN",
+          "displayName": "RCN",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_rcn.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_rcn_white.png"
+        },
+        {
+          "id": "layer3tv_auth-gateway_net",
+          "displayName": "T-Mobile",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_tmobile.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_tmobile_white.png"
+        },
+        {
+          "id": "Verizon",
+          "displayName": "Verizon",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_verizonfios.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_verizonfios_white.png"
+        },
+        {
+          "id": "wavebroadband",
+          "displayName": "Wave",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_wave.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_wave_white.png"
+        },
+        {
+          "id": "Comcast_SSO",
+          "displayName": "Comcast",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_xfinity.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_xfinity_white.png",
+          "siteUrl": "https://xfinity.com/stream",
+          "authorizationSiteUrl": "https://customer.xfinity.com/Secure/OnlineParentalControls.aspx"
+        },
+        {
+          "id": "YouTubeTV",
+          "displayName": "YouTubeTV",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_youtubetv.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_youtubetv_white.png"
+        },
+        {
+          "id": "ziplyfiber_auth-gateway_net",
+          "displayName": "Ziplyfiber",
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_ziplyfiber.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_ziplyfiber_white.png"
+        }
+      ]
+    }
+  }
+}
