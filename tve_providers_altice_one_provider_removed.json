@@ -136,12 +136,6 @@
       "TVEActivationText": "sc.tv/activate",
       "TVEProviders": [
         {
-          "id": "AlticeOne",
-          "displayName": "Altice One",
-          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
-          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
-        },
-        {
           "id": "www_websso_mybrctv_com",
           "displayName": "Blue Ridge",
           "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_blueridge.png",
@@ -197,7 +191,7 @@
         },
         {
           "id": "auth_hawaiiantel_net",
-          "displayName": "Hawaian",
+          "displayName": "Hawaiian Telcom",
           "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
         },

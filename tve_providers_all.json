@@ -144,8 +144,8 @@
         {
           "id": "AlticeOne",
           "displayName": "Altice One",
-          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
-          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
+          "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_alticeone.png",
+          "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_alticeone_white.png"
         },
         {
           "id": "www_websso_mybrctv_com",
@@ -203,7 +203,7 @@
         },
         {
           "id": "auth_hawaiiantel_net",
-          "displayName": "Hawaian",
+          "displayName": "Hawaiian Telcom",
           "iconURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian.png",
           "iconWhiteURL": "https://github.com/feragusper/draft/raw/master/tveLogos/ic_tve_provider_hawaiian_white.png"
         },
