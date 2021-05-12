@@ -1,7 +1,7 @@
 {
   "configuration": {
     "android": {
-      "TVEProviders": [
+      "tveProviders": [
         {
           "id": "AlticeOne",
           "displayName": "Altice One"
@@ -137,8 +137,8 @@
       ]
     },
     "androidtv": {
-      "TVEActivationText": "sc.tv/activate",
-      "TVEProviders": [
+      "activationURLForUser": "sc.tv/activate",
+      "tveProviders": [
         {
           "id": "AlticeOne",
           "displayName": "Altice One"

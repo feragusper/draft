@@ -1,7 +1,7 @@
 {
   "configuration": {
     "android": {
-      "TVEProviders": [
+      "tveProviders": [
         {
           "id": "www_websso_mybrctv_com",
           "displayName": "Blue Ridge",
@@ -133,8 +133,8 @@
       ]
     },
     "androidtv": {
-      "TVEActivationText": "sc.tv/activate",
-      "TVEProviders": [
+      "activationURLForUser": "sc.tv/activate",
+      "tveProviders": [
         {
           "id": "www_websso_mybrctv_com",
           "displayName": "Blue Ridge",

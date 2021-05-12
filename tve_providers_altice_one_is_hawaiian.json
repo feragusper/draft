@@ -1,7 +1,7 @@
 {
   "configuration": {
     "android": {
-      "TVEProviders": [
+      "tveProviders": [
         {
           "id": "AlticeOne",
           "displayName": "Hawaiian Telcom",
@@ -139,8 +139,8 @@
       ]
     },
     "androidtv": {
-      "TVEActivationText": "sc.tv/activate",
-      "TVEProviders": [
+      "activationURLForUser": "sc.tv/activate",
+      "tveProviders": [
         {
           "id": "AlticeOne",
           "displayName": "Hawaiian Telcom",

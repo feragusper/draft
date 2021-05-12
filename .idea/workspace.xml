@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620333414437</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=" - TVE Providers for TV fixed (changes in different scenarios were applied only for mobile)">
+      <created>1620409207136</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1620409207136</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -183,33 +190,38 @@
     <MESSAGE value=" - androidtv platform added to tve_providers.json" />
     <MESSAGE value=" - TVEActivationText value modified to check if works" />
     <MESSAGE value=" - Lot of changes to have different TVE conf jsons for different scenarios&#10; - new images for bell infinity" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - Lot of changes to have different TVE conf jsons for different scenarios&#10; - new images for bell infinity" />
+    <MESSAGE value=" - TVE Providers for TV fixed (changes in different scenarios were applied only for mobile)" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - TVE Providers for TV fixed (changes in different scenarios were applied only for mobile)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="339" y="55" key="CommitChangelistDialog2" timestamp="1620333414262">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="422" y="63" key="CommitChangelistDialog2" timestamp="1620409206877">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="339" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620333414262" />
-    <state x="100" y="123" width="1240" height="677" key="DiffContextDialog" timestamp="1620224468499">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="422" y="63" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1620409206877" />
+    <state x="124" y="148" width="1544" height="847" key="DiffContextDialog" timestamp="1620409489425">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="100" y="123" width="1240" height="677" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1620224468499" />
+    <state x="124" y="148" width="1544" height="847" key="DiffContextDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1620409489425" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1620223060310">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1620223060310" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1620333415444">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="398" y="246" key="Vcs.Push.Dialog.v2" timestamp="1620409208350">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620333415444" />
+    <state x="398" y="246" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1620409208350" />
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620219928798">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1620219928798" />
-    <state x="412" y="216" width="615" height="490" key="find.popup" timestamp="1620331584283">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="513" y="264" width="766" height="613" key="find.popup" timestamp="1620409495971">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="412" y="216" width="615" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1620331584283" />
+    <state x="513" y="264" width="766" height="613" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1620409495971" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1620328463008">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
