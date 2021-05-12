@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -21,6 +24,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tve_providers_all.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers_all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tve_providers_altice_one_image_removed.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers_altice_one_image_removed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tve_providers_altice_one_is_cincinnati.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers_altice_one_is_cincinnati.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tve_providers_altice_one_is_hawaiian.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers_altice_one_is_hawaiian.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tve_providers_altice_one_provider_removed.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers_altice_one_provider_removed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tve_providers_modified_activation_text.json" beforeDir="false" afterPath="$PROJECT_DIR$/tve_providers_modified_activation_text.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +62,7 @@
       <recent name="$PROJECT_DIR$/tveLogos" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -155,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620409207136</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary=" - A few adjustments on naming conventions.">
+      <created>1620821105584</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620821105586</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -191,14 +208,15 @@
     <MESSAGE value=" - TVEActivationText value modified to check if works" />
     <MESSAGE value=" - Lot of changes to have different TVE conf jsons for different scenarios&#10; - new images for bell infinity" />
     <MESSAGE value=" - TVE Providers for TV fixed (changes in different scenarios were applied only for mobile)" />
-    <option name="LAST_COMMIT_MESSAGE" value=" - TVE Providers for TV fixed (changes in different scenarios were applied only for mobile)" />
+    <MESSAGE value=" - A few adjustments on naming conventions." />
+    <option name="LAST_COMMIT_MESSAGE" value=" - A few adjustments on naming conventions." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="63" key="CommitChangelistDialog2" timestamp="1620409206877">
+    <state x="422" y="63" key="CommitChangelistDialog2" timestamp="1620821105337">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="339" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620333414262" />
-    <state x="422" y="63" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1620409206877" />
+    <state x="422" y="63" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1620821105337" />
     <state x="124" y="148" width="1544" height="847" key="DiffContextDialog" timestamp="1620409489425">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -208,11 +226,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1620223060310" />
-    <state x="398" y="246" key="Vcs.Push.Dialog.v2" timestamp="1620409208350">
+    <state x="398" y="246" key="Vcs.Push.Dialog.v2" timestamp="1620821106781">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620333415444" />
-    <state x="398" y="246" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1620409208350" />
+    <state x="398" y="246" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1620821106781" />
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620219928798">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
