@@ -1,0 +1,82 @@
+{
+  "updated": "2021-05-17T19:15:56.060883",
+  "data": {
+    "nonfeatured_thumbnail_assets": {
+      "url": "https://s3.amazonaws.com/cma-artlens/v2/nonfeatured_thumbnail_assets.zip",
+      "name": "Nonfeatured Thumbnail Assets",
+      "chksum": "3b2187287de3a5b194f3f23cf43794802693e68e",
+      "timestamp": "2021-05-17T19:15:56.377517"
+    },
+    "map_assets": {
+      "url": "https://s3.amazonaws.com/cma-artlens/v2/map_assets.zip",
+      "name": "Map Assets",
+      "chksum": "18ebe9a9163f04d6b253e94ba6ce0865b351af6d",
+      "timestamp": "2021-05-17T19:15:56.409122"
+    },
+    "featured_thumbnail_assets": {
+      "url": "https://s3.amazonaws.com/cma-artlens/v2/featured_thumbnail_assets.zip",
+      "name": "Featured Thumbnail Assets",
+      "chksum": "84b0114be422fb90cc02d3f0dcd85b04070f8709",
+      "timestamp": "2021-05-17T19:15:56.427234"
+    },
+    "vuforia_data": {
+      "url": "https://s3.amazonaws.com/cma-artlens/v2/vuforia_data.zip",
+      "name": "Vuforia Data",
+      "chksum": "9bc936fe90cb57c134d9da371b8a36fb082318df",
+      "timestamp": "2021-05-17T19:15:56.469942"
+    },
+    "model_data": {
+      "url": "https://s3.amazonaws.com/cma-artlens/v2/model_data.zip",
+      "name": "Model Data",
+      "chksum": "f602ba3224afa15a28603c4b00f17188481db182",
+      "timestamp": "2021-05-17T19:15:56.474685"
+    }
+  },
+  "configuration": {
+    "objects_method": "objects",
+    "events_and_exhibitions_endpoint": "https://www.clevelandart.org/rest/ipad/views/",
+    "navizon_api_url": "https://its.clevelandart.org",
+    "object_web_base_url": "https://www.clevelandart.org/art/",
+    "android": {
+      "docking_distance": 0.5,
+      "docking_duration_of_one_scan_period": 1000,
+      "docking_duration_of_pause_between_scan_periods": 3000
+    },
+    "events_method": "todays_events_mobile.json?display_id=ipad_events",
+    "tours_method": "tours",
+    "wayfinding_timeout": 10,
+    "facilities_method": "facilities",
+    "minimum_app_version": {
+      "android": 113,
+      "ios": 1
+    },
+    "current_app_version": {
+      "android": 114,
+      "ios": 1
+    },
+    "navizon_level_ids": "9 10",
+    "secondary_assets_method": "secondary_assets",
+    "expire_data_older_than": "2020-11-29",
+    "resources_url": "https://s3.amazonaws.com/cma-artlens/resources/",
+    "galleries_method": "galleries",
+    "internal_test_reachability_url": "https://artlens.clevelandart.org/api/artlens/dockstate/",
+    "expire_assets_older_than": "2020-11-29",
+    "hours": {
+      "0": "10 AM - 5 PM",
+      "1": "Closed",
+      "2": "10 AM - 5 PM",
+      "3": "10 AM - 5 PM",
+      "4": "10 AM - 5 PM",
+      "5": "10 AM - 5 PM",
+      "6": "10 AM - 5 PM"
+    },
+    "deferred_undock_time_interval": 6,
+    "api_root_url": "https://artlens.clevelandart.org/api/artlens/",
+    "internal_data_endpoint": "https://g1app.clevelandart.org/art_lens/api/",
+    "scheduled_data_refresh": 604800,
+    "external_data_endpoint": "https://s3.amazonaws.com/cma-artlens/data/",
+    "dock_attempt_timeout_counter": 15,
+    "exhibitions_method": "todays_events_mobile.json?display_id=ipad_exhibitions",
+    "use_special_exhibition_behavior": false
+  }
+}
