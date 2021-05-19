@@ -23,61 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7de337f2-800e-42e6-b2ea-d0736c22c31f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cma/forceUpdate/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppConfiguration_maintenance_mode_enabled.json" beforeDir="false" afterPath="$PROJECT_DIR$/smc/maintenanceMode/AppConfiguration_maintenance_mode_enabled.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mocked_closed_captions.ttml" beforeDir="false" afterPath="$PROJECT_DIR$/smc/closedCaptioning/mocked_closed_captions.ttml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mocked_closed_captions.vtt" beforeDir="false" afterPath="$PROJECT_DIR$/smc/closedCaptioning/mocked_closed_captions.vtt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_alticeone.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_alticeone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_alticeone_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_alticeone_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_bellinfinity.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_bellinfinity.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_bellinfinity_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_bellinfinity_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_blueridge.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_blueridge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_blueridge_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_blueridge_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_charterspectrum.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_charterspectrum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_charterspectrum_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_charterspectrum_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_cox.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_cox.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_cox_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_cox_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_directtv.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_directtv.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_directtv_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_directtv_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_dish.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_dish.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_dish_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_dish_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_epb.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_epb.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_epb_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_epb_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_frontier.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_frontier.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_frontier_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_frontier_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_fubo.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_fubo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_fubo_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_fubo_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_grande.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_grande.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_grande_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_grande_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_hawaiian.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_hawaiian.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_hawaiian_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_hawaiian_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_hulu.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_hulu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_hulu_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_hulu_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_mediacom.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_mediacom.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_mediacom_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_mediacom_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_optimum.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_optimum.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_optimum_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_optimum_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_rcn.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_rcn.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_rcn_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_rcn_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_tmobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_tmobile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_tmobile_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_tmobile_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_verizonfios.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_verizonfios.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_verizonfios_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_verizonfios_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_wave.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_wave.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_wave_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_wave_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_xfinity.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_xfinity.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_xfinity_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_xfinity_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_youtubetv.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_youtubetv.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_youtubetv_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_youtubetv_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_ziplyfiber.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_ziplyfiber.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tveLogos/ic_tve_provider_ziplyfiber_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tveLogos/ic_tve_provider_ziplyfiber_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tve_providers_all.json" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tve_providers_all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tve_providers_altice_one_image_removed.json" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tve_providers_altice_one_image_removed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tve_providers_altice_one_is_cincinnati.json" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tve_providers_altice_one_is_cincinnati.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tve_providers_altice_one_is_hawaiian.json" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tve_providers_altice_one_is_hawaiian.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tve_providers_altice_one_provider_removed.json" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tve_providers_altice_one_provider_removed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tve_providers_modified_activation_text.json" beforeDir="false" afterPath="$PROJECT_DIR$/smc/tveFlexibleInfraestructure/tve_providers_modified_activation_text.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cma/forceUpdate/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/cma/forceUpdate/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620840808383</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary=" - new folder structure to separate projects and use cases.&#10; - cma project with force update use cases added. mocked manifest json added for this.">
+      <created>1621442919159</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1621442919159</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -269,14 +223,15 @@
     <MESSAGE value=" - TVE Providers for TV fixed (changes in different scenarios were applied only for mobile)" />
     <MESSAGE value=" - A few adjustments on naming conventions." />
     <MESSAGE value=" - fire and fire TV configurations added." />
-    <option name="LAST_COMMIT_MESSAGE" value=" - fire and fire TV configurations added." />
+    <MESSAGE value=" - new folder structure to separate projects and use cases.&#10; - cma project with force update use cases added. mocked manifest json added for this." />
+    <option name="LAST_COMMIT_MESSAGE" value=" - new folder structure to separate projects and use cases.&#10; - cma project with force update use cases added. mocked manifest json added for this." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="63" key="CommitChangelistDialog2" timestamp="1620840808193">
+    <state x="339" y="63" key="CommitChangelistDialog2" timestamp="1621442918949">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="339" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1620333414262" />
-    <state x="422" y="63" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1620840808193" />
+    <state x="339" y="63" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1621442918949" />
     <state x="124" y="148" width="1544" height="847" key="DiffContextDialog" timestamp="1620840966726">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -286,11 +241,11 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.877@0.23.1440.877" timestamp="1620223060310" />
-    <state x="398" y="246" key="Vcs.Push.Dialog.v2" timestamp="1620840811091">
+    <state x="398" y="246" key="Vcs.Push.Dialog.v2" timestamp="1621442920562">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1620333415444" />
-    <state x="398" y="246" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1620840811091" />
+    <state x="398" y="246" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1621442920562" />
     <state x="503" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620219928798">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

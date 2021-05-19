@@ -50,9 +50,21 @@
       "android": 113,
       "ios": 1
     },
+    "force_update_dialog": {
+      "title": "Update needed",
+      "message": "There's a new version of this app. Please update to continue using it.",
+      "positive_button": "Update",
+      "negative_button": "Exit"
+    },
     "current_app_version": {
       "android": 114,
       "ios": 1
+    },
+    "update_available_dialog": {
+      "title": "Update available",
+      "message": "There's a new version of this app. Update it now in order to get the best experience or you can do it later.",
+      "positive_button": "Update",
+      "negative_button": "Later"
     },
     "navizon_level_ids": "9 10",
     "secondary_assets_method": "secondary_assets",
