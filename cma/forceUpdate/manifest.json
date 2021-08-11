@@ -1,35 +1,35 @@
 {
-  "updated": "2021-05-17T19:15:56.060883",
+  "updated": "2021-08-11T09:09:30.833518",
   "data": {
     "nonfeatured_thumbnail_assets": {
       "url": "https://s3.amazonaws.com/cma-artlens/v2/nonfeatured_thumbnail_assets.zip",
       "name": "Nonfeatured Thumbnail Assets",
-      "chksum": "3b2187287de3a5b194f3f23cf43794802693e68e",
-      "timestamp": "2021-05-17T19:15:56.377517"
+      "chksum": "5c7aafce92724a97c8848a66eeae2fb37a0c1f78",
+      "timestamp": "2021-08-11T09:09:31.098033"
     },
     "map_assets": {
       "url": "https://s3.amazonaws.com/cma-artlens/v2/map_assets.zip",
       "name": "Map Assets",
-      "chksum": "18ebe9a9163f04d6b253e94ba6ce0865b351af6d",
-      "timestamp": "2021-05-17T19:15:56.409122"
+      "chksum": "b253d67279f8ca3353f835c7e1d190f361115418",
+      "timestamp": "2021-08-11T09:09:31.124684"
     },
     "featured_thumbnail_assets": {
       "url": "https://s3.amazonaws.com/cma-artlens/v2/featured_thumbnail_assets.zip",
       "name": "Featured Thumbnail Assets",
-      "chksum": "84b0114be422fb90cc02d3f0dcd85b04070f8709",
-      "timestamp": "2021-05-17T19:15:56.427234"
+      "chksum": "676be2da515271d7d0d9e6beda77d240719e3104",
+      "timestamp": "2021-08-11T09:09:31.140983"
     },
     "vuforia_data": {
       "url": "https://s3.amazonaws.com/cma-artlens/v2/vuforia_data.zip",
       "name": "Vuforia Data",
-      "chksum": "9bc936fe90cb57c134d9da371b8a36fb082318df",
-      "timestamp": "2021-05-17T19:15:56.469942"
+      "chksum": "16ce2349d58abee1032e84c2b07e4b6c01652782",
+      "timestamp": "2021-08-11T09:09:31.193620"
     },
     "model_data": {
       "url": "https://s3.amazonaws.com/cma-artlens/v2/model_data.zip",
       "name": "Model Data",
-      "chksum": "f602ba3224afa15a28603c4b00f17188481db182",
-      "timestamp": "2021-05-17T19:15:56.474685"
+      "chksum": "b8a6bbe171e70a399afbe17a00116bf29545761c",
+      "timestamp": "2021-08-11T09:09:31.198090"
     }
   },
   "configuration": {
@@ -47,22 +47,26 @@
     "wayfinding_timeout": 10,
     "facilities_method": "facilities",
     "minimum_app_version": {
-      "android": 113,
-      "ios": 1
+      "android": "2.0.0",
+      "ios": "2.0.0"
+    },
+    "minimum_app_version_typed": {
+      "android": 300119,
+      "ios": 20200727.0828
+    },
+    "current_app_version_typed": {
+      "android": 300119,
+      "ios": 20210208.1535
     },
     "force_update_dialog": {
       "title": "Update needed",
-      "message": "There's a new version of this app. Please update to continue using it.",
+      "message": "A new version of the ArtLens App is available. Please update to continue using the app.",
       "positive_button": "Update",
       "negative_button": "Exit"
     },
-    "current_app_version": {
-      "android": 114,
-      "ios": 1
-    },
     "update_available_dialog": {
       "title": "Update available",
-      "message": "There's a new version of this app. Update it now in order to get the best experience or you can do it later.",
+      "message": "A new version of the ArtLens App is available. Update it now in order to get the best experience or you can do it later.",
       "positive_button": "Update",
       "negative_button": "Later"
     },
@@ -77,9 +81,9 @@
       "0": "10 AM - 5 PM",
       "1": "Closed",
       "2": "10 AM - 5 PM",
-      "3": "10 AM - 5 PM",
+      "3": "10 AM - 9 PM",
       "4": "10 AM - 5 PM",
-      "5": "10 AM - 5 PM",
+      "5": "10 AM - 9 PM",
       "6": "10 AM - 5 PM"
     },
     "deferred_undock_time_interval": 6,
